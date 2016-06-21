@@ -6,10 +6,7 @@
     "short": "Edw. Ch.",
     "start_date": "1831",
     "end_date": "1850",
-    "volumes": 4,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 2,
@@ -18,10 +15,7 @@
     "short": "Barb. Ch.",
     "start_date": "1845",
     "end_date": "1848",
-    "volumes": 3,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 3,
@@ -30,10 +24,7 @@
     "short": "Sand. Ch.",
     "start_date": "1843",
     "end_date": "1847",
-    "volumes": 4,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 4,
@@ -42,10 +33,7 @@
     "short": "Sarat. Ch. Sent.",
     "start_date": "1841",
     "end_date": "1847",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 5,
@@ -54,10 +42,7 @@
     "short": "Paige Ch.",
     "start_date": "1828",
     "end_date": "1845",
-    "volumes": 11,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 11
   },
   {
     "id": 6,
@@ -66,10 +51,7 @@
     "short": "Cl. Ch.",
     "start_date": "1839",
     "end_date": "1841",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 7,
@@ -78,10 +60,7 @@
     "short": "Hoff. Ch.",
     "start_date": "1839",
     "end_date": "1840",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 8,
@@ -90,10 +69,7 @@
     "short": "Hopk. Ch.",
     "start_date": "1823",
     "end_date": "1826",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 9,
@@ -102,10 +78,7 @@
     "short": "Lans. Ch.",
     "start_date": "1824",
     "end_date": "1826",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 10,
@@ -114,10 +87,7 @@
     "short": "Johns. Ch.",
     "start_date": "1814",
     "end_date": "1823",
-    "volumes": 7,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 7
   },
   {
     "id": 20,
@@ -126,10 +96,7 @@
     "short": "N.Y.",
     "start_date": "1877",
     "end_date": "1956",
-    "volumes": 309,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 309
   },
   {
     "id": 21,
@@ -138,10 +105,7 @@
     "short": "N.Y. 2d",
     "start_date": "1956",
     "end_date": "2003",
-    "volumes": 100,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 100
   },
   {
     "id": 22,
@@ -150,10 +114,7 @@
     "short": "N.Y.3d",
     "start_date": "2004",
     "end_date": "2009",
-    "volumes": 22,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2016-04-21 16:08:18",
-    "notes": ""
+    "volumes": 22
   },
   {
     "id": 23,
@@ -162,10 +123,7 @@
     "short": "Abb.N. Cas.",
     "start_date": "1876",
     "end_date": "1894",
-    "volumes": 32,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 32
   },
   {
     "id": 29,
@@ -174,10 +132,7 @@
     "short": "Abb. Pr.",
     "start_date": "1854",
     "end_date": "1875",
-    "volumes": 35,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 35
   },
   {
     "id": 35,
@@ -186,10 +141,7 @@
     "short": "How. Pr.",
     "start_date": "1844",
     "end_date": "1846",
-    "volumes": 67,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 67
   },
   {
     "id": 65,
@@ -198,10 +150,7 @@
     "short": "Misc.",
     "start_date": "1892",
     "end_date": "1942",
-    "volumes": 208,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 208
   },
   {
     "id": 77,
@@ -210,10 +159,7 @@
     "short": "Misc.2d",
     "start_date": "1956",
     "end_date": "2004",
-    "volumes": 196,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2016-04-21 16:16:52",
-    "notes": ""
+    "volumes": 196
   },
   {
     "id": 83,
@@ -222,10 +168,7 @@
     "short": "Misc.3d",
     "start_date": "2004",
     "end_date": "2016",
-    "volumes": 42,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2016-04-21 16:16:42",
-    "notes": ""
+    "volumes": 42
   },
   {
     "id": 89,
@@ -234,10 +177,7 @@
     "short": "N.Y.S.",
     "start_date": "1888",
     "end_date": "1938",
-    "volumes": 0,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "These were reporters that we scanned in error.  They are the unofficial versions that duplicate the officials."
+    "volumes": 0
   },
   {
     "id": 95,
@@ -246,10 +186,7 @@
     "short": "N.Y.S. 2d",
     "start_date": "1938",
     "end_date": "1987",
-    "volumes": 0,
-    "created_at": "2013-07-26 20:25:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "These were reporters that we scanned in error.  They are the unofficial versions that duplicate the officials."
+    "volumes": 0
   },
   {
     "id": 101,
@@ -258,10 +195,7 @@
     "short": "N.Y.S. 2d",
     "start_date": "1988",
     "end_date": "2009",
-    "volumes": 0,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "These were reporters that we scanned in error.  They are the unofficial versions that duplicate the officials."
+    "volumes": 0
   },
   {
     "id": 107,
@@ -270,10 +204,7 @@
     "short": "A.D.",
     "start_date": "1896",
     "end_date": "1955",
-    "volumes": 286,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2016-01-28 15:28:27",
-    "notes": ""
+    "volumes": 286
   },
   {
     "id": 108,
@@ -282,10 +213,7 @@
     "short": "A.D.2d",
     "start_date": "1956",
     "end_date": "2003",
-    "volumes": 309,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 309
   },
   {
     "id": 109,
@@ -294,10 +222,7 @@
     "short": "A.D.3d",
     "start_date": "2004",
     "end_date": "2009",
-    "volumes": 115,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 115
   },
   {
     "id": 110,
@@ -306,10 +231,7 @@
     "short": "N.Y. Sup. Ct.",
     "start_date": "1868",
     "end_date": "1896",
-    "volumes": 92,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 92
   },
   {
     "id": 111,
@@ -318,10 +240,7 @@
     "short": "Lans.",
     "start_date": "1869",
     "end_date": "1873",
-    "volumes": 7,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 7
   },
   {
     "id": 112,
@@ -330,10 +249,7 @@
     "short": "Barb.",
     "start_date": "1847",
     "end_date": "1877",
-    "volumes": 67,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 67
   },
   {
     "id": 113,
@@ -342,10 +258,7 @@
     "short": "Lock. Rev. Cas.",
     "start_date": "1799",
     "end_date": "1847",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 114,
@@ -354,10 +267,7 @@
     "short": "Denio",
     "start_date": "1845",
     "end_date": "1848",
-    "volumes": 5,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 115,
@@ -366,10 +276,7 @@
     "short": "Hill & Den.",
     "start_date": "1842",
     "end_date": "1844",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 116,
@@ -378,10 +285,7 @@
     "short": "Hill & Den.",
     "start_date": "1841",
     "end_date": "1844",
-    "volumes": 7,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 7
   },
   {
     "id": 117,
@@ -390,10 +294,7 @@
     "short": "Edm. Sel. Cas.",
     "start_date": "1834",
     "end_date": "1853",
-    "volumes": 2,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 118,
@@ -402,10 +303,7 @@
     "short": "Yates Sel. Cas.",
     "start_date": "1809",
     "end_date": "1809",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 119,
@@ -414,10 +312,7 @@
     "short": "Ant. N.P. Cas.",
     "start_date": "1808",
     "end_date": "1851",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 120,
@@ -426,10 +321,7 @@
     "short": "Wend.",
     "start_date": "1828",
     "end_date": "1841",
-    "volumes": 26,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 26
   },
   {
     "id": 121,
@@ -438,10 +330,7 @@
     "short": "Cow.",
     "start_date": "1823",
     "end_date": "1829",
-    "volumes": 8,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Missing vol. 6"
+    "volumes": 8
   },
   {
     "id": 122,
@@ -450,10 +339,7 @@
     "short": "Johns.",
     "start_date": "1806",
     "end_date": "1823",
-    "volumes": 18,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Missing vol. 2 and 17"
+    "volumes": 18
   },
   {
     "id": 123,
@@ -462,10 +348,7 @@
     "short": "Cai.",
     "start_date": "1796",
     "end_date": "1805",
-    "volumes": 3,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 124,
@@ -474,10 +357,7 @@
     "short": "Cai. Cas.",
     "start_date": "1796",
     "end_date": "1805",
-    "volumes": 2,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 125,
@@ -486,10 +366,7 @@
     "short": "Cole. & Cai. Cas.",
     "start_date": "1794",
     "end_date": "1805",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 126,
@@ -498,10 +375,7 @@
     "short": "Johns. Cas.",
     "start_date": "1799",
     "end_date": "1803",
-    "volumes": 2,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 127,
@@ -510,10 +384,7 @@
     "short": "Cole. Cas.",
     "start_date": "1791",
     "end_date": "1800",
-    "volumes": 1,
-    "created_at": "2013-07-26 20:25:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 129,
@@ -522,10 +393,7 @@
     "short": "Park. Crim. Rep.",
     "start_date": "1839",
     "end_date": "1868",
-    "volumes": 6,
-    "created_at": "2013-08-09 16:59:19",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 130,
@@ -534,10 +402,7 @@
     "short": "Redf.",
     "start_date": "1848",
     "end_date": "1882",
-    "volumes": 5,
-    "created_at": "2013-08-09 17:38:31",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 131,
@@ -546,10 +411,7 @@
     "short": "Brad.",
     "start_date": "1849",
     "end_date": "1857",
-    "volumes": 4,
-    "created_at": "2013-08-09 17:41:19",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 133,
@@ -558,10 +420,7 @@
     "short": "Sick. Op. Att'y Gen.",
     "start_date": "1796",
     "end_date": "1872",
-    "volumes": 0,
-    "created_at": "2013-08-09 18:02:27",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Not a court reporter - AG opinions"
+    "volumes": 0
   },
   {
     "id": 134,
@@ -570,10 +429,7 @@
     "short": "Thomp. & Cook",
     "start_date": "1873",
     "end_date": "1875",
-    "volumes": 6,
-    "created_at": "2013-08-23 19:21:19",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 135,
@@ -582,10 +438,7 @@
     "short": "Armstrong. Election Cases",
     "start_date": "1777",
     "end_date": "1871",
-    "volumes": 1,
-    "created_at": "2013-08-23 20:29:14",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 136,
@@ -594,10 +447,7 @@
     "short": "How. App. Cas.",
     "start_date": "1847",
     "end_date": "1848",
-    "volumes": 1,
-    "created_at": "2013-08-30 15:40:32",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 137,
@@ -606,10 +456,7 @@
     "short": "Abb. Ct. App.",
     "start_date": "1850",
     "end_date": "1868",
-    "volumes": 4,
-    "created_at": "2013-08-30 15:42:41",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 138,
@@ -618,10 +465,7 @@
     "short": "Seld. Notes",
     "start_date": "1852",
     "end_date": "1854",
-    "volumes": 1,
-    "created_at": "2013-08-30 15:44:31",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 139,
@@ -630,10 +474,7 @@
     "short": "Keyes",
     "start_date": "1863",
     "end_date": "1868",
-    "volumes": 4,
-    "created_at": "2013-08-30 15:46:46",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 140,
@@ -642,10 +483,7 @@
     "short": "Trans. App.",
     "start_date": "1867",
     "end_date": "1868",
-    "volumes": 4,
-    "created_at": "2013-08-30 15:48:41",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "vols. 1-2, 3-4, 5-6 bound together"
+    "volumes": 4
   },
   {
     "id": 141,
@@ -654,10 +492,7 @@
     "short": "Silv. Ct. App.",
     "start_date": "1886",
     "end_date": "1892",
-    "volumes": 4,
-    "created_at": "2013-08-30 15:50:39",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 142,
@@ -666,10 +501,7 @@
     "short": "Silv. Sup.",
     "start_date": "1889",
     "end_date": "1890",
-    "volumes": 5,
-    "created_at": "2013-08-30 16:06:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 143,
@@ -678,10 +510,7 @@
     "short": "N.Y. Crim.",
     "start_date": "1881",
     "end_date": "1924",
-    "volumes": 41,
-    "created_at": "2013-08-30 16:19:43",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 41
   },
   {
     "id": 146,
@@ -690,10 +519,7 @@
     "short": "Tuck. Surr.",
     "start_date": "1864",
     "end_date": "1869",
-    "volumes": 1,
-    "created_at": "2013-08-30 16:37:09",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 145,
@@ -702,10 +528,7 @@
     "short": "Wheel. Cr. Cas.",
     "start_date": "1791",
     "end_date": "1825",
-    "volumes": 3,
-    "created_at": "2013-08-30 16:23:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 147,
@@ -714,10 +537,7 @@
     "short": "Dem. Sur.",
     "start_date": "1882",
     "end_date": "1888",
-    "volumes": 6,
-    "created_at": "2013-08-30 16:48:05",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 148,
@@ -726,10 +546,7 @@
     "short": "Connoly Sur. Rep.",
     "start_date": "1888",
     "end_date": "1891",
-    "volumes": 2,
-    "created_at": "2013-08-30 16:50:35",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 149,
@@ -738,10 +555,7 @@
     "short": "Gibb. Surr.",
     "start_date": "1893",
     "end_date": "1898",
-    "volumes": 2,
-    "created_at": "2013-08-30 16:54:48",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 150,
@@ -750,10 +564,7 @@
     "short": "Mills Surr.",
     "start_date": "1899",
     "end_date": "1917",
-    "volumes": 18,
-    "created_at": "2013-08-30 17:00:45",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 18
   },
   {
     "id": 151,
@@ -762,10 +573,7 @@
     "short": "Pow. Surr.",
     "start_date": "1890",
     "end_date": "1894",
-    "volumes": 1,
-    "created_at": "2013-08-30 17:02:58",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 152,
@@ -774,10 +582,7 @@
     "short": "Liquor Tax Rep.",
     "start_date": "1896",
     "end_date": "1905",
-    "volumes": 3,
-    "created_at": "2013-08-30 17:26:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 160,
@@ -786,10 +591,7 @@
     "short": "N.Y. St. Rptr.",
     "start_date": "1886",
     "end_date": "1897",
-    "volumes": 75,
-    "created_at": "2013-08-30 18:45:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 75
   },
   {
     "id": 166,
@@ -798,10 +600,7 @@
     "short": "Daly (N.Y.)",
     "start_date": "1859",
     "end_date": "1891",
-    "volumes": 16,
-    "created_at": "2013-08-30 19:41:46",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 16
   },
   {
     "id": 167,
@@ -810,10 +609,7 @@
     "short": "E.D. Smith",
     "start_date": "1850",
     "end_date": "1858",
-    "volumes": 4,
-    "created_at": "2013-08-30 19:47:14",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 168,
@@ -822,10 +618,7 @@
     "short": "Hilt.",
     "start_date": "1855",
     "end_date": "1860",
-    "volumes": 2,
-    "created_at": "2013-08-30 19:50:31",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 169,
@@ -834,10 +627,7 @@
     "short": "N.Y. City Ct. Rep.",
     "start_date": "1874",
     "end_date": "1884",
-    "volumes": 2,
-    "created_at": "2013-09-03 20:18:51",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 170,
@@ -846,10 +636,7 @@
     "short": "Hall Super. Ct. Rep.",
     "start_date": "1828",
     "end_date": "1829",
-    "volumes": 2,
-    "created_at": "2013-09-03 20:59:32",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 171,
@@ -858,10 +645,7 @@
     "short": "Sandford Super. Ct. Rep.",
     "start_date": "1847",
     "end_date": "1852",
-    "volumes": 5,
-    "created_at": "2013-09-03 21:02:26",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 172,
@@ -870,10 +654,7 @@
     "short": "Jones and Spencer's Super. Ct. Rep.",
     "start_date": "1871",
     "end_date": "1892",
-    "volumes": 29,
-    "created_at": "2013-09-03 21:45:37",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 29
   },
   {
     "id": 173,
@@ -882,10 +663,7 @@
     "short": "Sweeney Super. Ct. Rep.",
     "start_date": "1869",
     "end_date": "1870",
-    "volumes": 2,
-    "created_at": "2013-09-03 21:46:45",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 174,
@@ -894,10 +672,7 @@
     "short": "Robertson's Super. Ct. Rep.",
     "start_date": "1863",
     "end_date": "1868",
-    "volumes": 7,
-    "created_at": "2013-09-03 21:48:44",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 7
   },
   {
     "id": 175,
@@ -906,10 +681,7 @@
     "short": "Bosworth Super. Ct. Rep.",
     "start_date": "1856",
     "end_date": "1863",
-    "volumes": 10,
-    "created_at": "2013-09-03 21:49:55",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 10
   },
   {
     "id": 176,
@@ -918,10 +690,7 @@
     "short": "Duer Super. Ct. Rep.",
     "start_date": "1852",
     "end_date": "1857",
-    "volumes": 6,
-    "created_at": "2013-09-03 21:51:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 177,
@@ -930,10 +699,7 @@
     "short": "Day",
     "start_date": "1802",
     "end_date": "1813",
-    "volumes": 5,
-    "created_at": "2013-09-10 20:35:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - onsite at KFC3645.A19 18002"
+    "volumes": 5
   },
   {
     "id": 178,
@@ -942,10 +708,7 @@
     "short": "Conn.",
     "start_date": "1814",
     "end_date": "1852",
-    "volumes": 287,
-    "created_at": "2013-09-10 20:39:56",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare KFC3645.A2"
+    "volumes": 287
   },
   {
     "id": 179,
@@ -954,10 +717,7 @@
     "short": "Dudley Rep.",
     "start_date": "1830",
     "end_date": "1833",
-    "volumes": 1,
-    "created_at": "2013-09-10 20:46:28",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US Georgia - consult Special Collections"
+    "volumes": 1
   },
   {
     "id": 180,
@@ -966,10 +726,7 @@
     "short": "Charlton Rep.",
     "start_date": "1805",
     "end_date": "1810",
-    "volumes": 1,
-    "created_at": "2013-09-10 20:50:54",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US Georgia - consult Special Collections"
+    "volumes": 1
   },
   {
     "id": 181,
@@ -978,10 +735,7 @@
     "short": "Georgia Decisions",
     "start_date": "1841",
     "end_date": "1843",
-    "volumes": 1,
-    "created_at": "2013-09-10 20:54:21",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US Georgia - consult Special Collections"
+    "volumes": 1
   },
   {
     "id": 568,
@@ -990,10 +744,7 @@
     "short": "Mass. App. Ct.",
     "start_date": "1972",
     "end_date": "2008",
-    "volumes": 84,
-    "created_at": "2014-04-25 16:26:29",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 84
   },
   {
     "id": 569,
@@ -1002,10 +753,7 @@
     "short": "Allen",
     "start_date": "1861",
     "end_date": "1867",
-    "volumes": 0,
-    "created_at": "2014-04-25 16:28:57",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Included In Massachusetts Reports 000115210"
+    "volumes": 0
   },
   {
     "id": 183,
@@ -1014,10 +762,7 @@
     "short": "Car. L. Rep.",
     "start_date": "1813",
     "end_date": "1816",
-    "volumes": 2,
-    "created_at": "2013-09-10 21:06:50",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US North Carolina - consult Special Collections"
+    "volumes": 2
   },
   {
     "id": 185,
@@ -1026,10 +771,7 @@
     "short": "N.C. (Tay.)",
     "start_date": "1798",
     "end_date": "1802",
-    "volumes": 1,
-    "created_at": "2013-09-10 21:11:26",
-    "updated_at": "2016-04-22 12:38:32",
-    "notes": "No item records attached - Law School Rare Primary US North Carolina"
+    "volumes": 1
   },
   {
     "id": 186,
@@ -1038,10 +780,7 @@
     "short": "N.C. (Taylor)",
     "start_date": "1816",
     "end_date": "1818",
-    "volumes": 1,
-    "created_at": "2013-09-10 21:13:47",
-    "updated_at": "2016-04-22 11:41:12",
-    "notes": "No item records attached - Law School Rare Primary US North Carolina"
+    "volumes": 1
   },
   {
     "id": 187,
@@ -1050,10 +789,7 @@
     "short": "Dall.",
     "start_date": "1754",
     "end_date": "1806",
-    "volumes": 4,
-    "created_at": "2013-09-10 21:15:36",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US Pennsylvania"
+    "volumes": 4
   },
   {
     "id": 188,
@@ -1062,10 +798,7 @@
     "short": "Add.",
     "start_date": "1791",
     "end_date": "1799",
-    "volumes": 1,
-    "created_at": "2013-09-10 21:17:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US Pennsylvania"
+    "volumes": 1
   },
   {
     "id": 189,
@@ -1074,10 +807,7 @@
     "short": "Va. (Hen. & M.)",
     "start_date": "1806",
     "end_date": "1810",
-    "volumes": 1,
-    "created_at": "2013-09-10 21:20:06",
-    "updated_at": "2016-05-02 10:37:11",
-    "notes": "No item records attached - Law School Rare Primary US Virginia - may be missing volumes 2-4"
+    "volumes": 1
   },
   {
     "id": 190,
@@ -1086,10 +816,7 @@
     "short": "Jeff.",
     "start_date": "1730",
     "end_date": "1772",
-    "volumes": 1,
-    "created_at": "2013-09-10 21:22:36",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US Virginia - may be missing volumes 2-5"
+    "volumes": 1
   },
   {
     "id": 191,
@@ -1098,10 +825,7 @@
     "short": "Mart.",
     "start_date": "1778",
     "end_date": "1797",
-    "volumes": 1,
-    "created_at": "2013-09-10 21:32:04",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US North Carolina"
+    "volumes": 1
   },
   {
     "id": 198,
@@ -1110,10 +834,7 @@
     "short": "Del.",
     "start_date": "1919",
     "end_date": "1966",
-    "volumes": 59,
-    "created_at": "2013-11-15 21:39:07",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 59
   },
   {
     "id": 199,
@@ -1122,10 +843,7 @@
     "short": "Del. Cas.",
     "start_date": "1792",
     "end_date": "1830",
-    "volumes": 3,
-    "created_at": "2013-11-15 21:40:31",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Reprint 1943 - copyright held by West"
+    "volumes": 3
   },
   {
     "id": 200,
@@ -1134,10 +852,7 @@
     "short": "Del. Ch.",
     "start_date": "1814",
     "end_date": "1895",
-    "volumes": 42,
-    "created_at": "2013-11-15 21:43:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 42
   },
   {
     "id": 210,
@@ -1146,22 +861,16 @@
     "short": "A.2d",
     "start_date": "1939",
     "end_date": "2010",
-    "volumes": 999,
-    "created_at": "2013-12-12 20:47:19",
-    "updated_at": "2016-01-27 15:41:56",
-    "notes": ""
+    "volumes": 999
   },
   {
     "id": 993,
     "state": "La.",
     "reporter": "Martin (Louisiana Term Reports)",
-    "short": "Mart (n.s.)",
+    "short": "Mart. (n.s.)",
     "start_date": "1809",
     "end_date": "1830",
-    "volumes": 0,
-    "created_at": "2016-02-03 16:02:48",
-    "updated_at": "2016-04-27 17:05:22",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 994,
@@ -1170,10 +879,7 @@
     "short": "Va. (Va. Cas.)",
     "start_date": "1789",
     "end_date": "1826",
-    "volumes": 0,
-    "created_at": "2016-02-08 15:26:03",
-    "updated_at": "2016-04-27 17:04:49",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 268,
@@ -1182,10 +888,7 @@
     "short": "Tenn. App.",
     "start_date": "1925",
     "end_date": "1971",
-    "volumes": 63,
-    "created_at": "2013-12-17 16:33:44",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 63
   },
   {
     "id": 269,
@@ -1194,10 +897,7 @@
     "short": "Utah",
     "start_date": "1855",
     "end_date": "1953",
-    "volumes": 123,
-    "created_at": "2013-12-17 16:36:07",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 123
   },
   {
     "id": 270,
@@ -1206,10 +906,7 @@
     "short": "Okla.",
     "start_date": "1890",
     "end_date": "1953",
-    "volumes": 208,
-    "created_at": "2013-12-17 16:37:28",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 208
   },
   {
     "id": 271,
@@ -1218,10 +915,7 @@
     "short": "Utah 2d",
     "start_date": "1953",
     "end_date": "1974",
-    "volumes": 30,
-    "created_at": "2013-12-17 16:37:41",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 30
   },
   {
     "id": 272,
@@ -1230,10 +924,7 @@
     "short": "Ind.",
     "start_date": "1847",
     "end_date": "1903",
-    "volumes": 275,
-    "created_at": "2013-12-17 16:40:43",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 275
   },
   {
     "id": 276,
@@ -1242,10 +933,7 @@
     "short": "R.I.",
     "start_date": "1828",
     "end_date": "1950",
-    "volumes": 122,
-    "created_at": "2013-12-17 16:46:56",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 122
   },
   {
     "id": 277,
@@ -1254,10 +942,7 @@
     "short": "Tenn.",
     "start_date": "1872",
     "end_date": "1878",
-    "volumes": 225,
-    "created_at": "2013-12-17 16:48:31",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "003907979 is Law School Unclassed"
+    "volumes": 225
   },
   {
     "id": 283,
@@ -1266,10 +951,7 @@
     "short": "Miss.",
     "start_date": "1818",
     "end_date": "1965",
-    "volumes": 254,
-    "created_at": "2013-12-17 17:01:55",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 254
   },
   {
     "id": 284,
@@ -1278,10 +960,7 @@
     "short": "Vt.",
     "start_date": "1826",
     "end_date": "2013",
-    "volumes": 193,
-    "created_at": "2013-12-17 17:02:12",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 193
   },
   {
     "id": 286,
@@ -1290,10 +969,7 @@
     "short": "N.D.",
     "start_date": "1890",
     "end_date": "1953",
-    "volumes": 79,
-    "created_at": "2013-12-17 17:06:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 79
   },
   {
     "id": 288,
@@ -1302,10 +978,7 @@
     "short": "Or.",
     "start_date": "1853",
     "end_date": "2011",
-    "volumes": 353,
-    "created_at": "2013-12-17 17:08:20",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 353
   },
   {
     "id": 289,
@@ -1314,10 +987,7 @@
     "short": "Mont.",
     "start_date": "1868",
     "end_date": "1890",
-    "volumes": 374,
-    "created_at": "2013-12-17 17:09:03",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 374
   },
   {
     "id": 290,
@@ -1326,10 +996,7 @@
     "short": "Ariz. App.",
     "start_date": "1965",
     "end_date": "1977",
-    "volumes": 27,
-    "created_at": "2013-12-17 17:12:32",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 27
   },
   {
     "id": 291,
@@ -1338,10 +1005,7 @@
     "short": "Ariz.",
     "start_date": "1886",
     "end_date": "1911",
-    "volumes": 233,
-    "created_at": "2013-12-17 17:13:51",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 233
   },
   {
     "id": 294,
@@ -1350,10 +1014,7 @@
     "short": "Ohio Misc.",
     "start_date": "1965",
     "end_date": "1975",
-    "volumes": 24,
-    "created_at": "2013-12-17 17:21:29",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 24
   },
   {
     "id": 296,
@@ -1362,10 +1023,7 @@
     "short": "Ala.",
     "start_date": "1840",
     "end_date": "1976",
-    "volumes": 295,
-    "created_at": "2013-12-17 17:23:58",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 295
   },
   {
     "id": 297,
@@ -1374,10 +1032,7 @@
     "short": "Ala. App.",
     "start_date": "1911",
     "end_date": "1968",
-    "volumes": 62,
-    "created_at": "2013-12-17 17:26:05",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 62
   },
   {
     "id": 299,
@@ -1386,10 +1041,7 @@
     "short": "N.J. Super.",
     "start_date": "1948",
     "end_date": "2009",
-    "volumes": 435,
-    "created_at": "2013-12-17 17:27:55",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 435
   },
   {
     "id": 304,
@@ -1398,22 +1050,16 @@
     "short": "P.R.",
     "start_date": "1899",
     "end_date": "1972",
-    "volumes": 98,
-    "created_at": "2013-12-17 17:34:57",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 98
   },
   {
     "id": 305,
     "state": "Ky.",
     "reporter": "Kentucky Reports",
     "short": "Ky.",
-    "start_date": "1785",
+    "start_date": "1879",
     "end_date": "1951",
-    "volumes": 315,
-    "created_at": "2013-12-17 17:39:38",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 237
   },
   {
     "id": 306,
@@ -1422,10 +1068,7 @@
     "short": "Idaho",
     "start_date": "1866",
     "end_date": "1890",
-    "volumes": 155,
-    "created_at": "2013-12-17 17:45:35",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 155
   },
   {
     "id": 309,
@@ -1434,10 +1077,7 @@
     "short": "Fla. Supp.",
     "start_date": "1952",
     "end_date": "1982",
-    "volumes": 49,
-    "created_at": "2013-12-17 17:53:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 49
   },
   {
     "id": 312,
@@ -1446,10 +1086,7 @@
     "short": "Fla. Supp. 2d",
     "start_date": "1983",
     "end_date": "1992",
-    "volumes": 50,
-    "created_at": "2013-12-17 17:57:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 50
   },
   {
     "id": 315,
@@ -1458,10 +1095,7 @@
     "short": "Ill. App.",
     "start_date": "1877",
     "end_date": "1887",
-    "volumes": 351,
-    "created_at": "2013-12-17 18:00:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 351
   },
   {
     "id": 319,
@@ -1470,10 +1104,7 @@
     "short": "Ill. App. 2d",
     "start_date": "1953",
     "end_date": "1971",
-    "volumes": 133,
-    "created_at": "2013-12-17 18:04:54",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 133
   },
   {
     "id": 322,
@@ -1482,10 +1113,7 @@
     "short": "Ill. App. 3d",
     "start_date": "1971",
     "end_date": "2014",
-    "volumes": 409,
-    "created_at": "2013-12-17 18:08:17",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No longer published in print format - as of 9/2014"
+    "volumes": 409
   },
   {
     "id": 324,
@@ -1494,10 +1122,7 @@
     "short": "N.J. Misc.",
     "start_date": "1923",
     "end_date": "1949",
-    "volumes": 26,
-    "created_at": "2013-12-17 18:09:49",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 26
   },
   {
     "id": 327,
@@ -1506,10 +1131,7 @@
     "short": "Cal. App.",
     "start_date": "1905",
     "end_date": "1934",
-    "volumes": 140,
-    "created_at": "2013-12-17 18:13:40",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 140
   },
   {
     "id": 329,
@@ -1518,10 +1140,7 @@
     "short": "Cal. App. 2d",
     "start_date": "1934",
     "end_date": "1966",
-    "volumes": 276,
-    "created_at": "2013-12-17 18:15:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 276
   },
   {
     "id": 332,
@@ -1530,10 +1149,7 @@
     "short": "Cal. App. 3d",
     "start_date": "1969",
     "end_date": "1991",
-    "volumes": 235,
-    "created_at": "2013-12-17 18:22:23",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 235
   },
   {
     "id": 334,
@@ -1542,10 +1158,7 @@
     "short": "Cal. App. 4th",
     "start_date": "1991",
     "end_date": "2013",
-    "volumes": 221,
-    "created_at": "2013-12-17 18:23:31",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 221
   },
   {
     "id": 339,
@@ -1554,10 +1167,7 @@
     "short": "La.",
     "start_date": "1900",
     "end_date": "1972",
-    "volumes": 263,
-    "created_at": "2013-12-17 18:30:14",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 159
   },
   {
     "id": 343,
@@ -1566,10 +1176,7 @@
     "short": "La. App.",
     "start_date": "1924",
     "end_date": "1932",
-    "volumes": 19,
-    "created_at": "2013-12-17 18:33:50",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 19
   },
   {
     "id": 344,
@@ -1578,10 +1185,7 @@
     "short": "Colo.",
     "start_date": "1864",
     "end_date": "1891",
-    "volumes": 200,
-    "created_at": "2013-12-17 18:34:25",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 200
   },
   {
     "id": 347,
@@ -1590,10 +1194,7 @@
     "short": "Tex.",
     "start_date": "1846",
     "end_date": "1872",
-    "volumes": 164,
-    "created_at": "2013-12-17 18:36:41",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 164
   },
   {
     "id": 348,
@@ -1602,10 +1203,7 @@
     "short": "Conn. Supp.",
     "start_date": "1935",
     "end_date": "2004",
-    "volumes": 51,
-    "created_at": "2013-12-17 18:38:50",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 51
   },
   {
     "id": 357,
@@ -1614,10 +1212,7 @@
     "short": "Pa. Super. Ct.",
     "start_date": "1896",
     "end_date": "1997",
-    "volumes": 456,
-    "created_at": "2013-12-17 18:44:37",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 456
   },
   {
     "id": 360,
@@ -1626,10 +1221,7 @@
     "short": "Ga.",
     "start_date": "1846",
     "end_date": "1889",
-    "volumes": 293,
-    "created_at": "2013-12-17 18:45:59",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 293
   },
   {
     "id": 361,
@@ -1638,10 +1230,7 @@
     "short": "Wyo.",
     "start_date": "1870",
     "end_date": "1959",
-    "volumes": 80,
-    "created_at": "2013-12-17 18:47:12",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 80
   },
   {
     "id": 362,
@@ -1650,10 +1239,7 @@
     "short": "Or. Tax",
     "start_date": "1962",
     "end_date": "2006",
-    "volumes": 18,
-    "created_at": "2013-12-17 18:48:03",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 18
   },
   {
     "id": 365,
@@ -1662,10 +1248,7 @@
     "short": "N.C. App.",
     "start_date": "1968",
     "end_date": "2008",
-    "volumes": 211,
-    "created_at": "2013-12-17 18:51:07",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 211
   },
   {
     "id": 368,
@@ -1674,10 +1257,7 @@
     "short": "Ark.",
     "start_date": "1837",
     "end_date": "1844",
-    "volumes": 375,
-    "created_at": "2013-12-17 18:53:04",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 375
   },
   {
     "id": 370,
@@ -1686,10 +1266,7 @@
     "short": "W. Va.",
     "start_date": "1863",
     "end_date": "1873",
-    "volumes": 232,
-    "created_at": "2013-12-17 18:53:52",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 232
   },
   {
     "id": 383,
@@ -1698,10 +1275,7 @@
     "short": "Va. App.",
     "start_date": "1985",
     "end_date": "2014",
-    "volumes": 62,
-    "created_at": "2013-12-17 19:32:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 62
   },
   {
     "id": 385,
@@ -1710,10 +1284,7 @@
     "short": "Pa. D. & C.",
     "start_date": "1922",
     "end_date": "1954",
-    "volumes": 89,
-    "created_at": "2013-12-17 19:34:52",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 89
   },
   {
     "id": 389,
@@ -1722,10 +1293,7 @@
     "short": "Pa. D. & C. 2d",
     "start_date": "1955",
     "end_date": "1977",
-    "volumes": 75,
-    "created_at": "2013-12-17 19:37:11",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 75
   },
   {
     "id": 390,
@@ -1734,10 +1302,7 @@
     "short": "Pa. D. & C. 3d",
     "start_date": "1977",
     "end_date": "1989",
-    "volumes": 50,
-    "created_at": "2013-12-17 19:39:07",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 50
   },
   {
     "id": 391,
@@ -1746,10 +1311,7 @@
     "short": "Fla.",
     "start_date": "1846",
     "end_date": "1948",
-    "volumes": 160,
-    "created_at": "2013-12-17 19:40:09",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 160
   },
   {
     "id": 394,
@@ -1758,10 +1320,7 @@
     "short": "Minn.",
     "start_date": "1851",
     "end_date": "1977",
-    "volumes": 312,
-    "created_at": "2013-12-17 19:44:10",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 312
   },
   {
     "id": 411,
@@ -1770,10 +1329,7 @@
     "short": "Or. App.",
     "start_date": "1969",
     "end_date": "2013",
-    "volumes": 259,
-    "created_at": "2013-12-17 20:00:13",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 259
   },
   {
     "id": 398,
@@ -1782,10 +1338,7 @@
     "short": "Mo. App.",
     "start_date": "1876",
     "end_date": "1878",
-    "volumes": 240,
-    "created_at": "2013-12-17 19:47:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 240
   },
   {
     "id": 751,
@@ -1794,10 +1347,7 @@
     "short": "Wright",
     "start_date": "1831",
     "end_date": "1834",
-    "volumes": 1,
-    "created_at": "2014-08-12 15:26:38",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 405,
@@ -1806,10 +1356,7 @@
     "short": "Wash.",
     "start_date": "1890",
     "end_date": "1903",
-    "volumes": 199,
-    "created_at": "2013-12-17 19:54:20",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 199
   },
   {
     "id": 985,
@@ -1818,10 +1365,7 @@
     "short": "Ohio App. 3d",
     "start_date": "1982",
     "end_date": "2015",
-    "volumes": 375,
-    "created_at": "2015-12-08 14:27:10",
-    "updated_at": "2015-12-08 14:27:10",
-    "notes": null
+    "volumes": 375
   },
   {
     "id": 986,
@@ -1830,10 +1374,7 @@
     "short": "Ohio Misc. 2d",
     "start_date": "1965",
     "end_date": "2015",
-    "volumes": 0,
-    "created_at": "2015-12-08 14:31:37",
-    "updated_at": "2015-12-08 14:31:37",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 409,
@@ -1842,10 +1383,7 @@
     "short": "Pa.",
     "start_date": "1845",
     "end_date": "2010",
-    "volumes": 619,
-    "created_at": "2013-12-17 19:57:37",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 619
   },
   {
     "id": 410,
@@ -1854,10 +1392,7 @@
     "short": "Wash. 2d",
     "start_date": "1939",
     "end_date": "2008",
-    "volumes": 175,
-    "created_at": "2013-12-17 19:59:16",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 175
   },
   {
     "id": 414,
@@ -1866,10 +1401,7 @@
     "short": "Cal.",
     "start_date": "1850",
     "end_date": "1934",
-    "volumes": 220,
-    "created_at": "2013-12-17 20:12:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 220
   },
   {
     "id": 415,
@@ -1878,10 +1410,7 @@
     "short": "Ct. Cl.",
     "start_date": "1863",
     "end_date": "1949",
-    "volumes": 230,
-    "created_at": "2013-12-17 20:13:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 230
   },
   {
     "id": 417,
@@ -1890,10 +1419,7 @@
     "short": "Cal. 2d",
     "start_date": "1934",
     "end_date": "1969",
-    "volumes": 71,
-    "created_at": "2013-12-17 20:15:22",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 71
   },
   {
     "id": 418,
@@ -1902,10 +1428,7 @@
     "short": "Cal. 3d",
     "start_date": "1969",
     "end_date": "1991",
-    "volumes": 54,
-    "created_at": "2013-12-17 20:16:55",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 54
   },
   {
     "id": 419,
@@ -1914,10 +1437,7 @@
     "short": "Cal. 4th",
     "start_date": "1991",
     "end_date": "2014",
-    "volumes": 56,
-    "created_at": "2013-12-17 20:18:25",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 56
   },
   {
     "id": 423,
@@ -1926,10 +1446,7 @@
     "short": "Haw.",
     "start_date": "1847",
     "end_date": "1856",
-    "volumes": 71,
-    "created_at": "2013-12-17 20:21:59",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Missing vol. 8, 10 (Widener has vol. 10), 18"
+    "volumes": 71
   },
   {
     "id": 436,
@@ -1938,10 +1455,7 @@
     "short": "Ind. App.",
     "start_date": "1890",
     "end_date": "1895",
-    "volumes": 182,
-    "created_at": "2013-12-17 20:28:26",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 182
   },
   {
     "id": 439,
@@ -1950,10 +1464,7 @@
     "short": "Haw. App.",
     "start_date": "1980",
     "end_date": "1994",
-    "volumes": 10,
-    "created_at": "2013-12-17 20:29:58",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 10
   },
   {
     "id": 453,
@@ -1962,10 +1473,7 @@
     "short": "Navajo Rptr.",
     "start_date": "1969",
     "end_date": "2005",
-    "volumes": 8,
-    "created_at": "2013-12-17 20:37:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Missing vol. 1"
+    "volumes": 8
   },
   {
     "id": 467,
@@ -1974,10 +1482,7 @@
     "short": "Me.",
     "start_date": "1822",
     "end_date": "1835",
-    "volumes": 160,
-    "created_at": "2013-12-17 20:57:31",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Copy of volume 1 in H & SC"
+    "volumes": 160
   },
   {
     "id": 472,
@@ -1986,10 +1491,7 @@
     "short": "Kan. App. 2d",
     "start_date": "1977",
     "end_date": "2006",
-    "volumes": 53,
-    "created_at": "2013-12-17 21:07:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 45
   },
   {
     "id": 473,
@@ -1998,10 +1500,7 @@
     "short": "V.I.",
     "start_date": "1917",
     "end_date": "2012",
-    "volumes": 60,
-    "created_at": "2013-12-17 21:11:05",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 60
   },
   {
     "id": 474,
@@ -2010,10 +1509,7 @@
     "short": "Iowa",
     "start_date": "1855",
     "end_date": "1890",
-    "volumes": 261,
-    "created_at": "2013-12-17 21:15:19",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 261
   },
   {
     "id": 476,
@@ -2022,10 +1518,7 @@
     "short": "Kan.",
     "start_date": "1862",
     "end_date": "2009",
-    "volumes": 291,
-    "created_at": "2013-12-17 21:21:09",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 291
   },
   {
     "id": 477,
@@ -2034,10 +1527,7 @@
     "short": "Wash. App.",
     "start_date": "1969",
     "end_date": "2013",
-    "volumes": 173,
-    "created_at": "2013-12-19 15:20:24",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 173
   },
   {
     "id": 478,
@@ -2046,10 +1536,7 @@
     "short": "Mass.",
     "start_date": "1867",
     "end_date": "2013",
-    "volumes": 466,
-    "created_at": "2013-12-19 15:24:30",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 466
   },
   {
     "id": 483,
@@ -2058,10 +1545,7 @@
     "short": "Wis.",
     "start_date": "1853",
     "end_date": "1894",
-    "volumes": 264,
-    "created_at": "2013-12-19 15:38:23",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 264
   },
   {
     "id": 489,
@@ -2070,10 +1554,7 @@
     "short": "N.H.",
     "start_date": "1816",
     "end_date": "1842",
-    "volumes": 164,
-    "created_at": "2013-12-19 15:55:06",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US New Hampshire"
+    "volumes": 164
   },
   {
     "id": 523,
@@ -2082,10 +1563,7 @@
     "short": "Okla. Crim.",
     "start_date": "1908",
     "end_date": "1953",
-    "volumes": 97,
-    "created_at": "2014-01-07 19:49:41",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 97
   },
   {
     "id": 515,
@@ -2094,10 +1572,7 @@
     "short": "Conn. App.",
     "start_date": "1983",
     "end_date": "2010",
-    "volumes": 121,
-    "created_at": "2013-12-20 14:32:46",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 121
   },
   {
     "id": 518,
@@ -2106,10 +1581,7 @@
     "short": "Nev.",
     "start_date": "1865",
     "end_date": "2009",
-    "volumes": 126,
-    "created_at": "2013-12-20 14:50:11",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 126
   },
   {
     "id": 519,
@@ -2118,10 +1590,7 @@
     "short": "Ga. App.",
     "start_date": "1907",
     "end_date": "2013",
-    "volumes": 298,
-    "created_at": "2013-12-20 14:52:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Missing vols. 291 - 314"
+    "volumes": 298
   },
   {
     "id": 520,
@@ -2130,10 +1599,7 @@
     "short": "Mich.",
     "start_date": "1847",
     "end_date": "2013",
-    "volumes": 494,
-    "created_at": "2013-12-20 16:01:39",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 494
   },
   {
     "id": 521,
@@ -2142,10 +1608,7 @@
     "short": "Md. App.",
     "start_date": "1967",
     "end_date": "2013",
-    "volumes": 216,
-    "created_at": "2013-12-20 16:05:00",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 216
   },
   {
     "id": 524,
@@ -2153,11 +1616,8 @@
     "reporter": "Maryland Reports",
     "short": "Md.",
     "start_date": "1851",
-    "end_date": "1852",
-    "volumes": 437,
-    "created_at": "2014-01-07 19:53:46",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "end_date": "date",
+    "volumes": 437
   },
   {
     "id": 528,
@@ -2166,10 +1626,7 @@
     "short": "Ill.",
     "start_date": "1819",
     "end_date": "1954",
-    "volumes": 415,
-    "created_at": "2014-01-07 20:00:34",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 415
   },
   {
     "id": 529,
@@ -2178,10 +1635,7 @@
     "short": "Ill. 2d",
     "start_date": "1953",
     "end_date": "1971",
-    "volumes": 218,
-    "created_at": "2014-01-07 20:01:38",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "We need to reinstate order - still missing recent volumes -Looks like it ceased in 2011"
+    "volumes": 218
   },
   {
     "id": 532,
@@ -2190,10 +1644,7 @@
     "short": "Ill. Ct. Cl.",
     "start_date": "1889",
     "end_date": "1923",
-    "volumes": 53,
-    "created_at": "2014-01-07 20:08:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Lori contacted Illinois State Library - Court of Claims no longer issues print reporters after vol. 53"
+    "volumes": 53
   },
   {
     "id": 534,
@@ -2202,10 +1653,7 @@
     "short": "Va.",
     "start_date": "1829",
     "end_date": "1908",
-    "volumes": 265,
-    "created_at": "2014-01-07 20:12:18",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "3937992 (Hening & Munford) shows we hold only vols 1,2 & 4 in law school rare unclassed.  2216737 (Va Cases Criminal)  are vols 3-4 and says Law School rare unclassed"
+    "volumes": 265
   },
   {
     "id": 538,
@@ -2214,10 +1662,7 @@
     "short": "Pa. Commw.",
     "start_date": "1970",
     "end_date": "1994",
-    "volumes": 168,
-    "created_at": "2014-01-07 20:19:04",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 168
   },
   {
     "id": 539,
@@ -2226,10 +1671,7 @@
     "short": "Neb.",
     "start_date": "1860",
     "end_date": "2008",
-    "volumes": 274,
-    "created_at": "2014-01-07 20:25:56",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 274
   },
   {
     "id": 546,
@@ -2238,10 +1680,7 @@
     "short": "Ohio St. 3d",
     "start_date": "1982",
     "end_date": "1991",
-    "volumes": 275,
-    "created_at": "2014-01-07 20:45:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Includes Ohio App. 3d and Ohio Misc. 2d"
+    "volumes": 275
   },
   {
     "id": 548,
@@ -2250,10 +1689,7 @@
     "short": "Ohio St.",
     "start_date": "1840",
     "end_date": "1851",
-    "volumes": 13,
-    "created_at": "2014-01-07 20:49:21",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 13
   },
   {
     "id": 549,
@@ -2262,10 +1698,7 @@
     "short": "N.C.",
     "start_date": "1868",
     "end_date": "2013",
-    "volumes": 364,
-    "created_at": "2014-01-07 20:54:52",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 364
   },
   {
     "id": 550,
@@ -2274,10 +1707,7 @@
     "short": "N.J. Tax Ct.",
     "start_date": "1979",
     "end_date": "2009",
-    "volumes": 24,
-    "created_at": "2014-01-07 20:58:46",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - still being published"
+    "volumes": 24
   },
   {
     "id": 551,
@@ -2286,10 +1716,7 @@
     "short": "N.J.L.",
     "start_date": "1790",
     "end_date": "1948",
-    "volumes": 137,
-    "created_at": "2014-01-07 21:01:11",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 137
   },
   {
     "id": 554,
@@ -2298,10 +1725,7 @@
     "short": "N.M.",
     "start_date": "1852",
     "end_date": "2012",
-    "volumes": 149,
-    "created_at": "2014-01-07 21:09:14",
-    "updated_at": "2016-05-11 11:25:26",
-    "notes": ""
+    "volumes": 149
   },
   {
     "id": 558,
@@ -2310,10 +1734,7 @@
     "short": "N.J.",
     "start_date": "1949",
     "end_date": "2012",
-    "volumes": 217,
-    "created_at": "2014-01-07 21:19:58",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 217
   },
   {
     "id": 559,
@@ -2322,10 +1743,7 @@
     "short": "N.J. Eq.",
     "start_date": "1830",
     "end_date": "1948",
-    "volumes": 142,
-    "created_at": "2014-01-07 21:22:40",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 142
   },
   {
     "id": 750,
@@ -2334,10 +1752,7 @@
     "short": "N.Y.",
     "start_date": "1871",
     "end_date": "1871",
-    "volumes": 1,
-    "created_at": "2014-08-11 14:11:53",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 565,
@@ -2346,10 +1761,7 @@
     "short": "Cal. Unrep.",
     "start_date": "1855",
     "end_date": "1910",
-    "volumes": 7,
-    "created_at": "2014-04-04 14:45:24",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 7
   },
   {
     "id": 566,
@@ -2358,10 +1770,7 @@
     "short": "Myrick",
     "start_date": "1872",
     "end_date": "1879",
-    "volumes": 1,
-    "created_at": "2014-04-04 14:49:38",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 567,
@@ -2370,10 +1779,7 @@
     "short": "Coffey",
     "start_date": "1908",
     "end_date": "1916",
-    "volumes": 6,
-    "created_at": "2014-04-04 14:53:05",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 576,
@@ -2382,10 +1788,7 @@
     "short": "Mass. App. Div.",
     "start_date": "1936",
     "end_date": "1937",
-    "volumes": 16,
-    "created_at": "2014-04-25 16:46:17",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 16
   },
   {
     "id": 578,
@@ -2394,10 +1797,7 @@
     "short": "Mass. Supp.",
     "start_date": "1980",
     "end_date": "1983",
-    "volumes": 4,
-    "created_at": "2014-04-25 16:49:03",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 579,
@@ -2406,10 +1806,7 @@
     "short": "Mass. App. Dec.",
     "start_date": "1941",
     "end_date": "1977",
-    "volumes": 59,
-    "created_at": "2014-04-25 16:50:22",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 59
   },
   {
     "id": 580,
@@ -2418,10 +1815,7 @@
     "short": "Mass. App. Div.",
     "start_date": "1980",
     "end_date": "2014",
-    "volumes": 35,
-    "created_at": "2014-04-25 16:57:29",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 35
   },
   {
     "id": 581,
@@ -2430,10 +1824,7 @@
     "short": "Minor",
     "start_date": "1820",
     "end_date": "1826",
-    "volumes": 1,
-    "created_at": "2014-05-02 11:24:10",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 582,
@@ -2442,10 +1833,7 @@
     "short": "Stew.",
     "start_date": "1827",
     "end_date": "1831",
-    "volumes": 3,
-    "created_at": "2014-05-02 11:26:45",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 583,
@@ -2454,10 +1842,7 @@
     "short": "Stew. & P.",
     "start_date": "1831",
     "end_date": "1834",
-    "volumes": 5,
-    "created_at": "2014-05-02 11:28:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 584,
@@ -2466,10 +1851,7 @@
     "short": "Port.",
     "start_date": "1834",
     "end_date": "1839",
-    "volumes": 9,
-    "created_at": "2014-05-02 11:30:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Vol 2 On Hold"
+    "volumes": 9
   },
   {
     "id": 585,
@@ -2478,10 +1860,7 @@
     "short": "Dallam",
     "start_date": "1840",
     "end_date": "1844",
-    "volumes": 1,
-    "created_at": "2014-05-02 14:10:08",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 586,
@@ -2490,10 +1869,7 @@
     "short": "Tex. Ct. App.",
     "start_date": "1876",
     "end_date": "1882",
-    "volumes": 30,
-    "created_at": "2014-05-02 14:23:21",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 30
   },
   {
     "id": 588,
@@ -2502,10 +1878,7 @@
     "short": "Tex. Crim.",
     "start_date": "1892",
     "end_date": "1963",
-    "volumes": 142,
-    "created_at": "2014-05-02 14:27:22",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 142
   },
   {
     "id": 590,
@@ -2514,10 +1887,7 @@
     "short": "Tex. Civ. App.",
     "start_date": "1892",
     "end_date": "1911",
-    "volumes": 63,
-    "created_at": "2014-05-02 14:33:11",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 63
   },
   {
     "id": 591,
@@ -2526,10 +1896,7 @@
     "short": "White & W.",
     "start_date": "1879",
     "end_date": "1884",
-    "volumes": 4,
-    "created_at": "2014-05-02 14:35:56",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 592,
@@ -2538,10 +1905,7 @@
     "short": "Posey",
     "start_date": "1879",
     "end_date": "1884",
-    "volumes": 2,
-    "created_at": "2014-05-02 14:38:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 593,
@@ -2550,10 +1914,7 @@
     "short": "Tex. L. R.",
     "start_date": "1882",
     "end_date": "1884",
-    "volumes": 3,
-    "created_at": "2014-05-02 14:43:51",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 594,
@@ -2562,10 +1923,7 @@
     "short": "King's Conflicting Cases",
     "start_date": "1890",
     "end_date": "1911",
-    "volumes": 3,
-    "created_at": "2014-05-02 14:48:23",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 595,
@@ -2574,10 +1932,7 @@
     "short": "Robard's Texas Conscript Cases",
     "start_date": "1862",
     "end_date": "1865",
-    "volumes": 1,
-    "created_at": "2014-05-02 14:52:12",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 596,
@@ -2586,34 +1941,25 @@
     "short": "Alaska",
     "start_date": "1884",
     "end_date": "1958",
-    "volumes": 17,
-    "created_at": "2014-05-05 15:32:27",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 17
   },
   {
     "id": 597,
     "state": "Alaska",
     "reporter": "Alaska Federal Reports",
-    "short": "Alaska",
+    "short": "Alaska Fed.",
     "start_date": "1869",
     "end_date": "1937",
-    "volumes": 5,
-    "created_at": "2014-05-05 15:33:58",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 600,
     "state": "Colo.",
     "reporter": "Colorado Court of Appeals Reports",
     "short": "Colo. App.",
-    "start_date": "1912",
+    "start_date": "1891",
     "end_date": "1915",
-    "volumes": 27,
-    "created_at": "2014-05-05 16:00:11",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 27
   },
   {
     "id": 611,
@@ -2622,10 +1968,7 @@
     "short": "S.W.2d",
     "start_date": "1928",
     "end_date": "1999",
-    "volumes": 999,
-    "created_at": "2014-05-06 17:05:32",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 999
   },
   {
     "id": 633,
@@ -2634,22 +1977,7 @@
     "short": "Root",
     "start_date": "1764",
     "end_date": "1798",
-    "volumes": 2,
-    "created_at": "2014-05-07 14:12:53",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
-  },
-  {
-    "id": 634,
-    "state": "Conn.",
-    "reporter": "Connecticut Reports",
-    "short": "Kirby",
-    "start_date": "1785",
-    "end_date": "1788",
-    "volumes": 1,
-    "created_at": "2014-05-07 14:14:23",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 635,
@@ -2658,10 +1986,7 @@
     "short": "Kirby",
     "start_date": "1785",
     "end_date": "1789",
-    "volumes": 1,
-    "created_at": "2014-05-07 14:15:40",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 636,
@@ -2670,10 +1995,7 @@
     "short": "Conn. Cir. Ct.",
     "start_date": "1961",
     "end_date": "1974",
-    "volumes": 6,
-    "created_at": "2014-05-07 14:18:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 637,
@@ -2682,10 +2004,7 @@
     "short": "Charlton",
     "start_date": "1811",
     "end_date": "1837",
-    "volumes": 1,
-    "created_at": "2014-05-07 14:37:09",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 638,
@@ -2694,10 +2013,7 @@
     "short": "Gault",
     "start_date": "1820",
     "end_date": "1846",
-    "volumes": 1,
-    "created_at": "2014-05-07 14:41:03",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 639,
@@ -2706,10 +2022,7 @@
     "short": "Ga. L. Rep.",
     "start_date": "1885",
     "end_date": "1886",
-    "volumes": 1,
-    "created_at": "2014-05-07 14:43:21",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed - incomplete"
+    "volumes": 1
   },
   {
     "id": 640,
@@ -2718,10 +2031,7 @@
     "short": "Bradford",
     "start_date": "1838",
     "end_date": "1841",
-    "volumes": 2,
-    "created_at": "2014-05-07 15:02:23",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Seem to be missing one volume - only two item records.  No good date information"
+    "volumes": 2
   },
   {
     "id": 641,
@@ -2730,10 +2040,7 @@
     "short": "Morris",
     "start_date": "1839",
     "end_date": "1846",
-    "volumes": 1,
-    "created_at": "2014-05-07 15:04:17",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare"
+    "volumes": 1
   },
   {
     "id": 642,
@@ -2742,10 +2049,7 @@
     "short": "Greene",
     "start_date": "1847",
     "end_date": "1854",
-    "volumes": 4,
-    "created_at": "2014-05-07 15:06:10",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 643,
@@ -2754,10 +2058,7 @@
     "short": "Blackf.",
     "start_date": "1817",
     "end_date": "1847",
-    "volumes": 8,
-    "created_at": "2014-05-08 12:09:21",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 8
   },
   {
     "id": 645,
@@ -2766,10 +2067,7 @@
     "short": "Smith",
     "start_date": "1848",
     "end_date": "1849",
-    "volumes": 1,
-    "created_at": "2014-05-08 12:15:39",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 647,
@@ -2778,10 +2076,7 @@
     "short": "Wilson",
     "start_date": "1871",
     "end_date": "1874",
-    "volumes": 1,
-    "created_at": "2014-05-08 12:22:27",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 646,
@@ -2790,10 +2085,7 @@
     "short": "Ind. L. Rep.",
     "start_date": "1881",
     "end_date": "1881",
-    "volumes": 1,
-    "created_at": "2014-05-08 12:18:02",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 652,
@@ -2802,10 +2094,7 @@
     "short": "Ill. Cir. Ct. Rep.",
     "start_date": "1907",
     "end_date": "1909",
-    "volumes": 3,
-    "created_at": "2014-05-08 12:35:07",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 653,
@@ -2814,10 +2103,7 @@
     "short": "Pin.",
     "start_date": "1839",
     "end_date": "1852",
-    "volumes": 3,
-    "created_at": "2014-05-13 14:28:51",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 654,
@@ -2826,10 +2112,7 @@
     "short": "Chand.",
     "start_date": "1849",
     "end_date": "1852",
-    "volumes": 2,
-    "created_at": "2014-05-13 14:30:30",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 655,
@@ -2838,10 +2121,7 @@
     "short": "Bur.",
     "start_date": "1842",
     "end_date": "1843",
-    "volumes": 1,
-    "created_at": "2014-05-13 14:35:30",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 656,
@@ -2850,10 +2130,7 @@
     "short": "Bur.",
     "start_date": "1841",
     "end_date": "1841",
-    "volumes": 1,
-    "created_at": "2014-05-13 14:37:48",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare Treatises"
+    "volumes": 1
   },
   {
     "id": 657,
@@ -2862,10 +2139,7 @@
     "short": "Ct. Cl.",
     "start_date": "1941",
     "end_date": "2011",
-    "volumes": 28,
-    "created_at": "2014-05-13 14:49:24",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 28
   },
   {
     "id": 658,
@@ -2874,10 +2148,7 @@
     "short": "Wash. Terr.",
     "start_date": "1854",
     "end_date": "1888",
-    "volumes": 3,
-    "created_at": "2014-05-13 14:52:19",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 660,
@@ -2886,10 +2157,7 @@
     "short": "Howison",
     "start_date": "1850",
     "end_date": "1851",
-    "volumes": 1,
-    "created_at": "2014-05-13 15:12:54",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 661,
@@ -2898,10 +2166,7 @@
     "short": "Aik.",
     "start_date": "1825",
     "end_date": "1828",
-    "volumes": 2,
-    "created_at": "2014-05-13 15:16:00",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 662,
@@ -2910,10 +2175,7 @@
     "short": "D. Chip.",
     "start_date": "1789",
     "end_date": "1824",
-    "volumes": 2,
-    "created_at": "2014-05-13 15:17:19",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 663,
@@ -2922,10 +2184,7 @@
     "short": "Brayt.",
     "start_date": "1815",
     "end_date": "1819",
-    "volumes": 1,
-    "created_at": "2014-05-13 15:18:32",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 664,
@@ -2934,10 +2193,7 @@
     "short": "Tyl.",
     "start_date": "1800",
     "end_date": "1803",
-    "volumes": 2,
-    "created_at": "2014-05-13 15:27:20",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 665,
@@ -2946,10 +2202,7 @@
     "short": "N. Chip.",
     "start_date": "1789",
     "end_date": "1791",
-    "volumes": 1,
-    "created_at": "2014-05-13 15:28:57",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 667,
@@ -2958,10 +2211,7 @@
     "short": "S.D.",
     "start_date": "1890",
     "end_date": "1976",
-    "volumes": 96,
-    "created_at": "2014-05-13 15:34:25",
-    "updated_at": "2016-04-12 09:08:06",
-    "notes": ""
+    "volumes": 96
   },
   {
     "id": 668,
@@ -2970,10 +2220,7 @@
     "short": "Dakota",
     "start_date": "1867",
     "end_date": "1889",
-    "volumes": 6,
-    "created_at": "2014-05-13 15:48:18",
-    "updated_at": "2016-04-12 09:07:35",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 669,
@@ -2982,10 +2229,7 @@
     "short": "",
     "start_date": "1775",
     "end_date": "1793",
-    "volumes": 1,
-    "created_at": "2014-05-14 16:38:30",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare Treatises"
+    "volumes": 1
   },
   {
     "id": 670,
@@ -2994,10 +2238,7 @@
     "short": "",
     "start_date": "1680",
     "end_date": "1709",
-    "volumes": 1,
-    "created_at": "2014-05-14 16:41:33",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 671,
@@ -3006,10 +2247,7 @@
     "short": "Smith",
     "start_date": "1802",
     "end_date": "1816",
-    "volumes": 1,
-    "created_at": "2014-05-14 16:45:58",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 672,
@@ -3018,10 +2256,7 @@
     "short": "Neb. App.",
     "start_date": "1992",
     "end_date": "2005",
-    "volumes": 15,
-    "created_at": "2014-05-14 16:49:35",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 15
   },
   {
     "id": 673,
@@ -3030,10 +2265,7 @@
     "short": "Mo.",
     "start_date": "1843",
     "end_date": "1891",
-    "volumes": 365,
-    "created_at": "2014-05-14 17:00:30",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 365
   },
   {
     "id": 675,
@@ -3042,10 +2274,7 @@
     "short": "Colo. L. Rep.",
     "start_date": "1880",
     "end_date": "1884",
-    "volumes": 4,
-    "created_at": "2014-07-16 14:11:00",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 677,
@@ -3054,10 +2283,7 @@
     "short": "Ark. Terr. Rep.",
     "start_date": "1820",
     "end_date": "1836",
-    "volumes": 1,
-    "created_at": "2014-07-31 14:41:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 678,
@@ -3066,10 +2292,7 @@
     "short": "Cal. Dist. Ct.",
     "start_date": "1857",
     "end_date": "1858",
-    "volumes": 2,
-    "created_at": "2014-07-31 14:47:13",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 679,
@@ -3078,10 +2301,7 @@
     "short": "Cal. Super. Ct.",
     "start_date": "1924",
     "end_date": "1929",
-    "volumes": 2,
-    "created_at": "2014-07-31 14:50:38",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 680,
@@ -3090,10 +2310,7 @@
     "short": "Cal.",
     "start_date": "''",
     "end_date": "",
-    "volumes": 1,
-    "created_at": "2014-07-31 14:59:42",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 681,
@@ -3102,10 +2319,7 @@
     "short": "Colo. N. P.",
     "start_date": "1900",
     "end_date": "1902",
-    "volumes": 1,
-    "created_at": "2014-07-31 15:03:09",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 682,
@@ -3114,10 +2328,7 @@
     "short": "Conn. Super. Ct.",
     "start_date": "1789",
     "end_date": "1793",
-    "volumes": 2,
-    "created_at": "2014-07-31 15:05:17",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare"
+    "volumes": 2
   },
   {
     "id": 683,
@@ -3126,70 +2337,52 @@
     "short": "Conn. Super. Ct.",
     "start_date": "1785",
     "end_date": "1789",
-    "volumes": 1,
-    "created_at": "2014-07-31 15:07:21",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 684,
     "state": "D.C.",
     "reporter": "Reports of Cases Adjudged in the Court of Appeals of the District of Columbia",
-    "short": "D.C. App.",
+    "short": "App. D.C.",
     "start_date": "1893",
     "end_date": "1934",
-    "volumes": 408,
-    "created_at": "2014-07-31 15:18:15",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 408
   },
   {
     "id": 688,
     "state": "D.C.",
     "reporter": "Reports of cases argued and adjudged in the Supreme Court of the District of Columbia (Tucker & Clephane)",
-    "short": "Tuck. & Cl.",
+    "short": "D.C. (Tuck. & Cl.)",
     "start_date": "1892",
     "end_date": "1893",
-    "volumes": 1,
-    "created_at": "2014-07-31 16:17:22",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 689,
     "state": "D.C.",
     "reporter": "Reports of cases argued and determined in the Supreme Court of the District of Columbia (Mackey)",
-    "short": "Mackey",
+    "short": "D.C. (Mackey)",
     "start_date": "1880",
     "end_date": "1892",
-    "volumes": 9,
-    "created_at": "2014-07-31 16:20:02",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 9
   },
   {
     "id": 690,
     "state": "D.C.",
     "reporter": "Reports of cases argued and adjudged in the Supreme Court of the District of Columbia (MacArthur & Mackey)",
-    "short": "MacArth. & M.",
+    "short": "D.C. (MacArth. & M.)",
     "start_date": "1879",
     "end_date": "1880",
-    "volumes": 1,
-    "created_at": "2014-07-31 16:22:02",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 691,
     "state": "D.C.",
     "reporter": "Reports of cases argued and determined in the Supreme Court of the District of Columbia (MacArthur)",
-    "short": "MacArth.",
+    "short": "D.C. (MacArth.)",
     "start_date": "1873",
     "end_date": "1879",
-    "volumes": 3,
-    "created_at": "2014-07-31 16:26:00",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 692,
@@ -3198,10 +2391,7 @@
     "short": "D.C. Cir.",
     "start_date": "1840",
     "end_date": "1850",
-    "volumes": 2,
-    "created_at": "2014-07-31 16:28:36",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 693,
@@ -3210,10 +2400,7 @@
     "short": "D.C.",
     "start_date": "1841",
     "end_date": "1859",
-    "volumes": 1,
-    "created_at": "2014-07-31 16:31:27",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 694,
@@ -3222,10 +2409,7 @@
     "short": "D.C.",
     "start_date": "1933",
     "end_date": "1936",
-    "volumes": 2,
-    "created_at": "2014-07-31 16:33:33",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 695,
@@ -3234,10 +2418,7 @@
     "short": "Ga. Super. Ct.",
     "start_date": "1842",
     "end_date": "1843",
-    "volumes": 1,
-    "created_at": "2014-07-31 16:41:39",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": "Law School Rare Primary US Georgia"
+    "volumes": 1
   },
   {
     "id": 698,
@@ -3246,34 +2427,25 @@
     "short": "Ind. App.",
     "start_date": "1972",
     "end_date": "1979",
-    "volumes": 31,
-    "created_at": "2014-08-01 12:36:02",
-    "updated_at": "2014-08-01 12:44:51",
-    "notes": null
+    "volumes": 31
   },
   {
     "id": 697,
     "state": "Haw.",
-    "reporter": "Reports of causes determined in the United States District Court for the District of Hawaii .",
-    "short": "D.  Haw.",
+    "reporter": "Reports of causes determined in the United States District Court for the District of Hawaii.",
+    "short": "D. Haw.",
     "start_date": "1900",
     "end_date": "1917",
-    "volumes": 4,
-    "created_at": "2014-08-01 12:32:42",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 699,
     "state": "Kan.",
-    "reporter": "Reports of cases determined in the Supreme court of the territory of Kansas",
-    "short": "Kan.",
+    "reporter": "Reports of cases determined in the Supreme court of the territory of Kansas (McCahon)",
+    "short": "McCahon",
     "start_date": "1858",
-    "end_date": "1861",
-    "volumes": 1,
-    "created_at": "2014-08-01 12:39:10",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": "Law School Rare KFK45.A19"
+    "end_date": "1868",
+    "volumes": 1
   },
   {
     "id": 700,
@@ -3282,166 +2454,124 @@
     "short": "Kan. App.",
     "start_date": "1895",
     "end_date": "1901",
-    "volumes": 10,
-    "created_at": "2014-08-01 12:47:51",
-    "updated_at": "2014-08-01 12:51:36",
-    "notes": null
+    "volumes": 10
   },
   {
     "id": 701,
     "state": "Ky.",
     "reporter": "Reports of selected civil and criminal cases decided in the Court of Appeals of Kentucky",
-    "short": "Ky. App.",
+    "short": "Ky. (Met.)",
     "start_date": "1858",
-    "end_date": "1879",
-    "volumes": 20,
-    "created_at": "2014-08-01 12:54:45",
-    "updated_at": "2014-08-01 12:58:41",
-    "notes": null
+    "end_date": "1863",
+    "volumes": 4
   },
   {
     "id": 702,
     "state": "Ky.",
     "reporter": "Reports of cases at common law and in equity, decided in the Court of Appeals of Kentucky",
-    "short": "Ky. App.",
+    "short": "Ky. (B. Mon.)",
     "start_date": "1840",
     "end_date": "1857",
-    "volumes": 18,
-    "created_at": "2014-08-01 13:02:08",
-    "updated_at": "2014-08-01 13:02:08",
-    "notes": null
+    "volumes": 18
   },
   {
     "id": 703,
     "state": "Ky.",
-    "reporter": "Reports of select cases decided in the Court of Appeals of Kentucky during the year…",
-    "short": "Ky. App.",
+    "reporter": "Reports of select cases decided in the Court of Appeals of Kentucky during the year\u2026",
+    "short": "Ky. (Dana)",
     "start_date": "1833",
     "end_date": "1840",
-    "volumes": 9,
-    "created_at": "2014-08-01 13:07:40",
-    "updated_at": "2014-08-01 13:07:40",
-    "notes": null
+    "volumes": 9
   },
   {
     "id": 704,
     "state": "Ky.",
     "reporter": "Reports of cases at law and in equity, argued and decided in the Court of Appeals of the commonwealth of Kentucky",
-    "short": "Ky. App.",
+    "short": "Ky. (J.J. Marsh.)",
     "start_date": "1829",
     "end_date": "1832",
-    "volumes": 7,
-    "created_at": "2014-08-01 13:09:52",
-    "updated_at": "2014-08-01 13:09:52",
-    "notes": null
+    "volumes": 7
   },
   {
     "id": 705,
     "state": "Ky.",
     "reporter": "eports of cases at common law and in equity : argued and decided in the Court of Appeals of the Commonwealth of Kentucky",
-    "short": "Ky. App.",
-    "start_date": "1825",
+    "short": "Ky. (T.B. Mon.)",
+    "start_date": "1824",
     "end_date": "1828",
-    "volumes": 5,
-    "created_at": "2014-08-01 13:14:02",
-    "updated_at": "2014-08-01 13:14:02",
-    "notes": null
+    "volumes": 7
   },
   {
     "id": 706,
     "state": "Ky.",
     "reporter": "Reports of cases at common law and in chancery, decided by the Court of Appeals of the commonwealth of Kentucky",
-    "short": "Ky. App.",
-    "start_date": "1823",
+    "short": "Ky. (Litt.)",
+    "start_date": "1822",
     "end_date": "1824",
-    "volumes": 5,
-    "created_at": "2014-08-01 13:15:57",
-    "updated_at": "2014-08-01 13:15:57",
-    "notes": null
+    "volumes": 5
   },
   {
     "id": 707,
     "state": "Ky.",
     "reporter": "Cases selected from the decisions of the Court of Appeals of Kentucky, not heretofore reported",
-    "short": "Ky. App.",
-    "start_date": "1824",
-    "end_date": "1824",
-    "volumes": 1,
-    "created_at": "2014-08-01 13:17:30",
-    "updated_at": "2014-08-01 13:17:30",
-    "notes": null
+    "short": "Ky. (Litt. Sel. Cas.)",
+    "start_date": "1795",
+    "end_date": "1821",
+    "volumes": 1
   },
   {
     "id": 708,
     "state": "Ky.",
     "reporter": "Kentucky Court of Appeals (Marshall, A.K.)",
-    "short": "Ky. App.",
+    "short": "Ky. (A.K. Marsh.)",
     "start_date": "1817",
     "end_date": "1821",
-    "volumes": 3,
-    "created_at": "2014-08-01 13:38:42",
-    "updated_at": "2014-08-01 13:38:42",
-    "notes": null
+    "volumes": 3
   },
   {
     "id": 709,
     "state": "Ky.",
     "reporter": "Reports of cases at common law and in chancery, argued and decided in the Court of Appeals of the commonwealth of Kentucky",
-    "short": "Ky. App.",
+    "short": "Ky. (Bibb)",
     "start_date": "1808",
     "end_date": "1809",
-    "volumes": 1,
-    "created_at": "2014-08-01 13:42:19",
-    "updated_at": "2014-08-01 13:42:19",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 710,
     "state": "Ky.",
-    "reporter": "Reports of cases argued and adjudged in the Court of Appeals of Kentucky, from spring term 1805, to spring term 1808, inclusive",
-    "short": "Ky. App.",
-    "start_date": "1805",
-    "end_date": "1808",
-    "volumes": 1,
-    "created_at": "2014-08-01 13:44:26",
-    "updated_at": "2014-08-01 13:44:54",
-    "notes": null
+    "reporter": "Reports of selected civil and criminal cases decided in the Court of Appeals of Kentucky",
+    "short": "Ky. (Duv.)",
+    "start_date": "1863",
+    "end_date": "1866",
+    "volumes": 2
   },
   {
     "id": 711,
     "state": "Ky.",
     "reporter": "Decisions of the Court of Appeals of the state of Kentucky, from March 1st, 1801, to January 18,1805, inclusive",
-    "short": "Ky. App.",
+    "short": "Ky. (Sneed)",
     "start_date": "1801",
     "end_date": "1805",
-    "volumes": 1,
-    "created_at": "2014-08-01 13:47:46",
-    "updated_at": "2014-08-01 13:47:46",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 712,
     "state": "Ky.",
     "reporter": "A report of the causes determined by the late Supreme court for the district of Kentucky, and by the Court for appeals, in which titles to land were in dispute",
-    "short": "Ky.",
+    "short": "Ky. (Hughes)",
     "start_date": "1785",
     "end_date": "1801",
-    "volumes": 1,
-    "created_at": "2014-08-01 13:50:34",
-    "updated_at": "2014-08-01 13:50:34",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 713,
     "state": "Ky.",
-    "reporter": "Kentucky opinions, containing the unreported opinions of the Court of Appeals",
-    "short": "Ky. App.",
+    "reporter": "Kentucky Opinions, containing the unreported opinions of the Court of Appeals",
+    "short": "Ky. Op.",
     "start_date": "1864",
     "end_date": "1886",
-    "volumes": 13,
-    "created_at": "2014-08-01 13:54:25",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 13
   },
   {
     "id": 996,
@@ -3450,10 +2580,7 @@
     "short": "Ark. App.",
     "start_date": "1981",
     "end_date": "2009",
-    "volumes": 0,
-    "created_at": "2016-03-09 09:20:23",
-    "updated_at": "2016-04-27 17:06:37",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 991,
@@ -3462,22 +2589,16 @@
     "short": "How. Pr. (n.s.)",
     "start_date": "1844",
     "end_date": "1886",
-    "volumes": 0,
-    "created_at": "2016-01-27 15:37:53",
-    "updated_at": "2016-05-02 10:27:04",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 988,
     "state": "Mass.",
     "reporter": "Massachusetts Reports",
-    "short": "Mass (Pick.)",
+    "short": "Mass. (Pick.)",
     "start_date": "1822",
     "end_date": "1839",
-    "volumes": 0,
-    "created_at": "2016-01-11 09:41:44",
-    "updated_at": "2016-03-14 17:21:00",
-    "notes": null
+    "volumes": 24
   },
   {
     "id": 989,
@@ -3486,10 +2607,7 @@
     "short": "Abb. Pr. (n.s.)",
     "start_date": "1854",
     "end_date": "1875",
-    "volumes": 0,
-    "created_at": "2016-01-27 15:36:28",
-    "updated_at": "2016-05-02 10:27:21",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 987,
@@ -3498,70 +2616,52 @@
     "short": "Mass. (Cush)",
     "start_date": "1848",
     "end_date": "1853",
-    "volumes": 0,
-    "created_at": "2016-01-11 09:26:26",
-    "updated_at": "2016-04-05 08:33:42",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 721,
     "state": "La.",
-    "reporter": "Reports of cases argued and determined in the various Courts of Appeal of the state of Louisiana",
-    "short": "McGloin",
+    "reporter": "Reports of cases argued and determined in the various Courts of Appeal of the state of Louisiana (McGloin)",
+    "short": "McGl.",
     "start_date": "1881",
     "end_date": "1884",
-    "volumes": 2,
-    "created_at": "2014-08-01 14:35:18",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 722,
     "state": "La.",
-    "reporter": "Tessier's digest of the unreported decisions of the Court of appeal, Orleans Parish, from October 15th, 1917, to July 31st, 1922",
-    "short": "La. App.",
+    "reporter": "Teissier's digest of the unreported decisions of the Court of appeal, Orleans Parish, from October 15th, 1917, to July 31st, 1922",
+    "short": "La. App. (Teiss.)",
     "start_date": "1917",
     "end_date": "1922",
-    "volumes": 1,
-    "created_at": "2014-08-01 14:38:00",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": "HD Unclassed"
+    "volumes": 1
   },
   {
     "id": 723,
     "state": "La.",
-    "reporter": "Peltier's decisions, Court of Appeal, Parish of Orleans",
-    "short": "Peltier",
+    "reporter": "Peltier's decisions, Court of Appeal, Parish of Orleans (Peltier)",
+    "short": "Pelt.",
     "start_date": "1917",
     "end_date": "1923",
-    "volumes": 7,
-    "created_at": "2014-08-01 14:41:35",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 7
   },
   {
     "id": 724,
     "state": "La.",
-    "reporter": "Decisions, Court of Appeal, parish of Orleans",
-    "short": "Tiessier",
-    "start_date": "1904",
+    "reporter": "Decisions, Court of Appeal, parish of Orleans (Teissier)",
+    "short": "Teiss.",
+    "start_date": "1903",
     "end_date": "1917",
-    "volumes": 14,
-    "created_at": "2014-08-01 14:44:10",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 14
   },
   {
     "id": 725,
     "state": "La.",
-    "reporter": "Legal points decided by the Second circuit court of Louisiana",
+    "reporter": "Legal points decided by the Second circuit court of Louisiana (Gunby's Reports)",
     "short": "Gunby",
     "start_date": "1885",
     "end_date": "1885",
-    "volumes": 1,
-    "created_at": "2014-08-01 14:47:15",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 726,
@@ -3570,10 +2670,7 @@
     "short": "Mann. Unrep. Cas.",
     "start_date": "1877",
     "end_date": "1880",
-    "volumes": 1,
-    "created_at": "2014-08-01 14:49:23",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 727,
@@ -3582,10 +2679,7 @@
     "short": "Gill",
     "start_date": "1843",
     "end_date": "1851",
-    "volumes": 9,
-    "created_at": "2014-08-01 14:51:49",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 9
   },
   {
     "id": 728,
@@ -3594,10 +2688,7 @@
     "short": "G. & J.",
     "start_date": "1829",
     "end_date": "1841",
-    "volumes": 12,
-    "created_at": "2014-08-01 14:53:28",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 12
   },
   {
     "id": 729,
@@ -3606,10 +2697,7 @@
     "short": "H. & G.",
     "start_date": "1826",
     "end_date": "1829",
-    "volumes": 2,
-    "created_at": "2014-08-01 16:39:14",
-    "updated_at": "2016-04-12 09:14:24",
-    "notes": null
+    "volumes": 2
   },
   {
     "id": 730,
@@ -3618,10 +2706,7 @@
     "short": "H. & G.",
     "start_date": "1826",
     "end_date": "1829",
-    "volumes": 2,
-    "created_at": "2014-08-01 16:40:05",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 731,
@@ -3630,22 +2715,16 @@
     "short": "H. & J.",
     "start_date": "1800",
     "end_date": "1826",
-    "volumes": 7,
-    "created_at": "2014-08-01 16:41:52",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 7
   },
   {
     "id": 732,
     "state": "Md.",
-    "reporter": "Maryland reports, being a series of the most important law cases argued and determined in the Provincial Court and Court of Appeals of the then province of Maryland, from the year 1700 [i.e. 1658] down to the [end of 1799] ... Selected from the records of",
-    "short": "Md. App.",
+    "reporter": "Maryland reports, being a series of the most important law cases argued and determined in the Provincial Court and Court of Appeals of the then province of Maryland, from the year 1700 [i.e. 1658] down to the [end of 1799]",
+    "short": "Md.",
     "start_date": "1809",
     "end_date": "1818",
-    "volumes": 4,
-    "created_at": "2014-08-01 16:44:10",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 733,
@@ -3654,10 +2733,7 @@
     "short": "Md. Ch.",
     "start_date": "1851",
     "end_date": "1854",
-    "volumes": 4,
-    "created_at": "2014-08-01 16:48:27",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 734,
@@ -3666,22 +2742,16 @@
     "short": "Md. Ch.",
     "start_date": "1811",
     "end_date": "1832",
-    "volumes": 3,
-    "created_at": "2014-08-04 13:52:42",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 735,
     "state": "Md.",
     "reporter": "Baltimore city reports, comprising opinions of the various courts of Baltimore city since 1888...",
-    "short": "Balt. C. Rep..",
+    "short": "Balt. C. Rep.",
     "start_date": "1888",
     "end_date": "1928",
-    "volumes": 4,
-    "created_at": "2014-08-04 14:00:57",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 736,
@@ -3690,10 +2760,7 @@
     "short": "Super. Ct. Jud.",
     "start_date": "1761",
     "end_date": "1772",
-    "volumes": 1,
-    "created_at": "2014-08-04 14:19:50",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 737,
@@ -3702,10 +2769,7 @@
     "short": "Rec. Ct. Assistants",
     "start_date": "1630",
     "end_date": "1692",
-    "volumes": 3,
-    "created_at": "2014-08-04 14:23:36",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 738,
@@ -3714,10 +2778,7 @@
     "short": "Rep. Cont. El.",
     "start_date": "1780",
     "end_date": "1852",
-    "volumes": 1,
-    "created_at": "2014-08-04 14:26:25",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 739,
@@ -3726,10 +2787,7 @@
     "short": "Rep. Cont. Elect. Case.",
     "start_date": "1886",
     "end_date": "1897",
-    "volumes": 1,
-    "created_at": "2014-08-04 14:29:09",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 740,
@@ -3738,10 +2796,7 @@
     "short": "Rec. Ct. Gen. Sess.",
     "start_date": "1731",
     "end_date": "1737",
-    "volumes": 1,
-    "created_at": "2014-08-04 14:31:48",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": "Law School HD Unclassed"
+    "volumes": 1
   },
   {
     "id": 741,
@@ -3750,10 +2805,7 @@
     "short": "Rec. Q. Ct.",
     "start_date": "1911",
     "end_date": "1975",
-    "volumes": 9,
-    "created_at": "2014-08-04 14:34:06",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 9
   },
   {
     "id": 742,
@@ -3762,10 +2814,7 @@
     "short": "Rec. Co. Ct.",
     "start_date": "1671",
     "end_date": "1680",
-    "volumes": 2,
-    "created_at": "2014-08-04 14:36:40",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 743,
@@ -3774,10 +2823,7 @@
     "short": "Davis. L. Ct. Cas.",
     "start_date": "1898",
     "end_date": "1908",
-    "volumes": 1,
-    "created_at": "2014-08-04 14:39:55",
-    "updated_at": "2014-08-04 14:39:55",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 744,
@@ -3786,10 +2832,7 @@
     "short": "Doug.",
     "start_date": "1943",
     "end_date": "1947",
-    "volumes": 2,
-    "created_at": "2014-08-04 15:53:36",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 745,
@@ -3798,10 +2841,7 @@
     "short": "Blume Unrep. Op.",
     "start_date": "1836",
     "end_date": "1843",
-    "volumes": 1,
-    "created_at": "2014-08-04 16:15:21",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 746,
@@ -3810,10 +2850,7 @@
     "short": "Blume Sup. Ct. Trans.",
     "start_date": "1805",
     "end_date": "1836",
-    "volumes": 6,
-    "created_at": "2014-08-04 16:17:31",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 747,
@@ -3822,10 +2859,7 @@
     "short": "Mich. Ct. App.",
     "start_date": "1965",
     "end_date": "2016",
-    "volumes": 310,
-    "created_at": "2014-08-04 16:20:47",
-    "updated_at": "2016-05-10 10:44:42",
-    "notes": ""
+    "volumes": 310
   },
   {
     "id": 748,
@@ -3834,10 +2868,7 @@
     "short": "Mich. Ct. Cl.",
     "start_date": "1939",
     "end_date": "1942",
-    "volumes": 10,
-    "created_at": "2014-08-04 16:22:48",
-    "updated_at": "2016-02-18 09:35:58",
-    "notes": "Law School HD Unclassed"
+    "volumes": 10
   },
   {
     "id": 749,
@@ -3846,10 +2877,7 @@
     "short": "Mich. Pr.",
     "start_date": "1896",
     "end_date": "1896",
-    "volumes": 1,
-    "created_at": "2014-08-04 16:25:22",
-    "updated_at": "2014-12-11 00:13:48",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 753,
@@ -3858,10 +2886,7 @@
     "short": "Am. Samoa 2d",
     "start_date": "1983",
     "end_date": "1997",
-    "volumes": 31,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 31
   },
   {
     "id": 754,
@@ -3870,10 +2895,7 @@
     "short": "Am. Samoa 3d",
     "start_date": "1997",
     "end_date": "2014",
-    "volumes": 10,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 10
   },
   {
     "id": 755,
@@ -3882,10 +2904,7 @@
     "short": "D.C.",
     "start_date": "1863",
     "end_date": "1872",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 756,
@@ -3894,22 +2913,16 @@
     "short": "Cranch",
     "start_date": "1801",
     "end_date": "1840",
-    "volumes": 5,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 757,
     "state": "Ky.",
     "reporter": "Reports of cases argued and adjudged in the Court of Appeals of Kentucky",
-    "short": "Hardin",
+    "short": "Ky. (Hard.)",
     "start_date": "1805",
     "end_date": "1808",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 758,
@@ -3918,10 +2931,7 @@
     "short": "Davis L. Ct. Cas.",
     "start_date": "1898",
     "end_date": "1908",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 1
   },
   {
     "id": 759,
@@ -3930,10 +2940,7 @@
     "short": "McGrath",
     "start_date": "1891",
     "end_date": "1897",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 760,
@@ -3942,10 +2949,7 @@
     "short": "Howell N.P.",
     "start_date": "1868",
     "end_date": "1884",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 761,
@@ -3954,10 +2958,7 @@
     "short": "Walk. Ch.",
     "start_date": "1842",
     "end_date": "1845",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 762,
@@ -3966,10 +2967,7 @@
     "short": "Mich. N.P. R.",
     "start_date": "1870",
     "end_date": "1871",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed, copyright is 1944"
+    "volumes": 2
   },
   {
     "id": 763,
@@ -3978,10 +2976,7 @@
     "short": "Harr. Ch.",
     "start_date": "1838",
     "end_date": "1842",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 1
   },
   {
     "id": 764,
@@ -3990,10 +2985,7 @@
     "short": "Smed. & M. Ch.",
     "start_date": "1840",
     "end_date": "1843",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 765,
@@ -4002,10 +2994,7 @@
     "short": "Freem. Ch.",
     "start_date": "1839",
     "end_date": "1943",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 1
   },
   {
     "id": 766,
@@ -4014,10 +3003,7 @@
     "short": "Mor. St. Cas.",
     "start_date": "1818",
     "end_date": "1872",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 767,
@@ -4026,10 +3012,7 @@
     "short": "Heming. & McDon.",
     "start_date": "1820",
     "end_date": "1885",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 768,
@@ -4038,10 +3021,7 @@
     "short": "Miss. Ct. Rec.",
     "start_date": "1799",
     "end_date": "1859",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Copyright 1950 - compilation by Mary Louise Flowers Hendrix"
+    "volumes": 1
   },
   {
     "id": 769,
@@ -4050,10 +3030,7 @@
     "short": "N.C. (Hayw.)",
     "start_date": "1799",
     "end_date": "1806",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2016-04-22 12:26:20",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 1011,
@@ -4062,10 +3039,7 @@
     "short": "N.C. (Busb. Eq)",
     "start_date": "1852",
     "end_date": "1853",
-    "volumes": 1,
-    "created_at": "2016-04-22 12:29:25",
-    "updated_at": "2016-04-22 12:29:25",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 770,
@@ -4074,10 +3048,7 @@
     "short": "Edsall",
     "start_date": "1683",
     "end_date": "1702",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 771,
@@ -4086,10 +3057,7 @@
     "short": "??",
     "start_date": "1657",
     "end_date": "1696",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD, but looks like we already pulled this volume. (Volume 2 in this 8 v. series, Widener HOLLIS:001931300) Copyright is 1925."
+    "volumes": 1
   },
   {
     "id": 772,
@@ -4098,10 +3066,7 @@
     "short": "Ohio App.",
     "start_date": "1990",
     "end_date": "2014",
-    "volumes": 8,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 8
   },
   {
     "id": 773,
@@ -4110,10 +3075,7 @@
     "short": "Tapp. Rep.",
     "start_date": "1816",
     "end_date": "1819",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 774,
@@ -4122,10 +3084,7 @@
     "short": "Hosea's Rep.",
     "start_date": "1907",
     "end_date": "1907",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 775,
@@ -4134,10 +3093,7 @@
     "short": "Ohio C.C. (N.S.)",
     "start_date": "1904",
     "end_date": "1922",
-    "volumes": 32,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 32
   },
   {
     "id": 776,
@@ -4146,10 +3102,7 @@
     "short": "Ohio Nisi Prius",
     "start_date": "1894",
     "end_date": "1901",
-    "volumes": 8,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 8
   },
   {
     "id": 777,
@@ -4158,10 +3111,7 @@
     "short": "Ohio Nisi Prius (N.S.)",
     "start_date": "1904",
     "end_date": "1934",
-    "volumes": 32,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 32
   },
   {
     "id": 778,
@@ -4170,10 +3120,7 @@
     "short": "Disney (Ohio)",
     "start_date": "1867",
     "end_date": "1871",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 779,
@@ -4182,10 +3129,7 @@
     "short": "Handy",
     "start_date": "1854",
     "end_date": "1855",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 780,
@@ -4194,10 +3138,7 @@
     "short": "Jahn",
     "start_date": "1885",
     "end_date": "1901",
-    "volumes": 22,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 22
   },
   {
     "id": 781,
@@ -4206,10 +3147,7 @@
     "short": "Ohio",
     "start_date": "1823",
     "end_date": "1839",
-    "volumes": 9,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 9
   },
   {
     "id": 782,
@@ -4218,10 +3156,7 @@
     "short": "Ohio Ch.",
     "start_date": "1831",
     "end_date": "1834",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 1
   },
   {
     "id": 783,
@@ -4230,10 +3165,7 @@
     "short": "Goebel",
     "start_date": "1885",
     "end_date": "1890",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 784,
@@ -4242,10 +3174,7 @@
     "short": "Cin. Sup. Ct. Rep.",
     "start_date": "1870",
     "end_date": "1873",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 785,
@@ -4254,10 +3183,7 @@
     "short": "P.R. Cir.",
     "start_date": "1995",
     "end_date": "2012",
-    "volumes": 17,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 17
   },
   {
     "id": 786,
@@ -4266,10 +3192,7 @@
     "short": "P.R. Sent.",
     "start_date": "1899",
     "end_date": "1902",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 787,
@@ -4278,22 +3201,16 @@
     "short": "Blair Co. L.R. 2d",
     "start_date": "1940",
     "end_date": "1947",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 788,
     "state": "Pa.",
-    "reporter": "Cadwalader's cases, being decisions of the Hon. John CadwaladerÉ..",
+    "reporter": "Cadwalader's cases, being decisions of the Hon. John Cadwalader\u00c9..",
     "short": "E.D. Pa.",
     "start_date": "1858",
     "end_date": "1879",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Harvard Depository Unclassed"
+    "volumes": 2
   },
   {
     "id": 789,
@@ -4302,22 +3219,16 @@
     "short": "Cambria Co. L.J.",
     "start_date": "1917",
     "end_date": "1928",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 790,
     "state": "Pa.",
-    "reporter": "Cases in the Supreme Court of Pennsylvania; being those cases not designated to be reportedÉ",
+    "reporter": "Cases in the Supreme Court of Pennsylvania; being those cases not designated to be reported\u00c9",
     "short": "Monaghan",
     "start_date": "1888",
     "end_date": "1891",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 791,
@@ -4326,10 +3237,7 @@
     "short": "C.C.L.J.",
     "start_date": "1960",
     "end_date": "1999",
-    "volumes": 33,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 33
   },
   {
     "id": 792,
@@ -4338,10 +3246,7 @@
     "short": "C.C.L.J. 2d",
     "start_date": "1999",
     "end_date": "2010",
-    "volumes": 101,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "These look like weekly issues - and we need to update holdings"
+    "volumes": 101
   },
   {
     "id": 793,
@@ -4350,10 +3255,7 @@
     "short": "D. Pa.",
     "start_date": "1813",
     "end_date": "1813",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare Trials - check re Gale"
+    "volumes": 1
   },
   {
     "id": 794,
@@ -4362,10 +3264,7 @@
     "short": "Pa. D. & C. 5th",
     "start_date": "2007",
     "end_date": "2014",
-    "volumes": 30,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 30
   },
   {
     "id": 795,
@@ -4374,10 +3273,7 @@
     "short": "Franklin Co. Legal J.",
     "start_date": "1977",
     "end_date": "2000",
-    "volumes": 17,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - still current"
+    "volumes": 17
   },
   {
     "id": 796,
@@ -4386,10 +3282,7 @@
     "short": "Adams Co. L.J.",
     "start_date": "1959",
     "end_date": "2010",
-    "volumes": 51,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - still current"
+    "volumes": 51
   },
   {
     "id": 797,
@@ -4398,10 +3291,7 @@
     "short": "Berk's Co. L.J..",
     "start_date": "1908",
     "end_date": "1990",
-    "volumes": 82,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 82
   },
   {
     "id": 798,
@@ -4410,10 +3300,7 @@
     "short": "Blair Co. L.R.",
     "start_date": "1898",
     "end_date": "1903",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 799,
@@ -4422,10 +3309,7 @@
     "short": "Bradford Co. L.J.",
     "start_date": "1992",
     "end_date": "2014",
-    "volumes": 5,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - still being published"
+    "volumes": 5
   },
   {
     "id": 800,
@@ -4434,10 +3318,7 @@
     "short": "Bucks Co. L.R.",
     "start_date": "1951",
     "end_date": "2014",
-    "volumes": 84,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - still being published"
+    "volumes": 84
   },
   {
     "id": 801,
@@ -4446,10 +3327,7 @@
     "short": "Butler Co. Legal J.",
     "start_date": "1959",
     "end_date": "2014",
-    "volumes": 19,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - still being published"
+    "volumes": 19
   },
   {
     "id": 802,
@@ -4458,22 +3336,16 @@
     "short": "Cambria Co. Rep.",
     "start_date": "1929",
     "end_date": "1986",
-    "volumes": 31,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - should be up to vol. 34"
+    "volumes": 31
   },
   {
     "id": 803,
     "state": "Pa.",
-    "reporter": "Cases in the Supreme Court of Pennsylvania; being those cases not designated to be reportedÉ",
+    "reporter": "Cases in the Supreme Court of Pennsylvania; being those cases not designated to be reported\u00c9",
     "short": "Sadler",
     "start_date": "1885",
     "end_date": "1889",
-    "volumes": 10,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 10
   },
   {
     "id": 804,
@@ -4482,10 +3354,7 @@
     "short": "Ches. Co. Rep.",
     "start_date": "1879",
     "end_date": "2005",
-    "volumes": 53,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 53
   },
   {
     "id": 805,
@@ -4494,10 +3363,7 @@
     "short": "Mun.  L. Rep.",
     "start_date": "1090",
     "end_date": "1979",
-    "volumes": 70,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 70
   },
   {
     "id": 806,
@@ -4506,10 +3372,7 @@
     "short": "Craw. Co. Leg. J.",
     "start_date": "1957",
     "end_date": "2010",
-    "volumes": 28,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 28
   },
   {
     "id": 807,
@@ -4518,22 +3381,16 @@
     "short": "Cumberland L.J.",
     "start_date": "1950",
     "end_date": "2009",
-    "volumes": 58,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - they are up to vol. 61"
+    "volumes": 58
   },
   {
     "id": 808,
     "state": "Pa.",
-    "reporter": "Decisions of the Honorable John J. Pearson, judge of the twelvth judicial districtÉ",
+    "reporter": "Decisions of the Honorable John J. Pearson, judge of the twelvth judicial district\u00c9",
     "short": "Pears.",
     "start_date": "1850",
     "end_date": "1880",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 809,
@@ -4542,10 +3399,7 @@
     "short": "Del. Co. Reps.",
     "start_date": "1883",
     "end_date": "2003",
-    "volumes": 81,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 81
   },
   {
     "id": 810,
@@ -4554,10 +3408,7 @@
     "short": "Erie. Co. L.J.",
     "start_date": "1945",
     "end_date": "2008",
-    "volumes": 38,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Lack vol. 1-27 (title was Law Journal) also need to reinstate - they are up to  vol. 95"
+    "volumes": 38
   },
   {
     "id": 811,
@@ -4566,10 +3417,7 @@
     "short": "Fay. L.J.",
     "start_date": "1938",
     "end_date": "2011",
-    "volumes": 74,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 74
   },
   {
     "id": 812,
@@ -4578,10 +3426,7 @@
     "short": "Haz. Pa. Reg.",
     "start_date": "1828",
     "end_date": "1935",
-    "volumes": 16,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "At Widener"
+    "volumes": 16
   },
   {
     "id": 813,
@@ -4590,10 +3435,7 @@
     "short": "",
     "start_date": "1789",
     "end_date": "1789",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare E H797j 789"
+    "volumes": 1
   },
   {
     "id": 814,
@@ -4602,10 +3444,7 @@
     "short": "Lack. Jur.",
     "start_date": "1888",
     "end_date": "2014",
-    "volumes": 107,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 107
   },
   {
     "id": 815,
@@ -4614,10 +3453,7 @@
     "short": "Lack. L. N.",
     "start_date": "1895",
     "end_date": "1903",
-    "volumes": 8,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 8
   },
   {
     "id": 816,
@@ -4626,10 +3462,7 @@
     "short": "Lanc. L. Rev.",
     "start_date": "1883",
     "end_date": "1993",
-    "volumes": 73,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Check this record.  Looks like we have additional holdings - after vol. 73.  Says they are advance sheets.  But all other records show this series ends in 1993 with vol. 73"
+    "volumes": 73
   },
   {
     "id": 817,
@@ -4638,10 +3471,7 @@
     "short": "Lebanon Co. L.J.",
     "start_date": "1946",
     "end_date": "2008",
-    "volumes": 42,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings - they are at vol. 46"
+    "volumes": 42
   },
   {
     "id": 818,
@@ -4650,10 +3480,7 @@
     "short": "Pa. Leg. Gaz.",
     "start_date": "1869",
     "end_date": "1872",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 1
   },
   {
     "id": 819,
@@ -4662,10 +3489,7 @@
     "short": "Leg. Gaz.",
     "start_date": "1869",
     "end_date": "1876",
-    "volumes": 8,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare Periodicals (copy 1) copy 2 is HD unclassed"
+    "volumes": 8
   },
   {
     "id": 820,
@@ -4674,10 +3498,7 @@
     "short": "Magis. & Const.",
     "start_date": "1895",
     "end_date": "1895",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 821,
@@ -4686,10 +3507,7 @@
     "short": "Pa. Co. Ct.",
     "start_date": "1886",
     "end_date": "1921",
-    "volumes": 50,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 50
   },
   {
     "id": 822,
@@ -4698,10 +3516,7 @@
     "short": "Pa. Dist.",
     "start_date": "1892",
     "end_date": "1921",
-    "volumes": 30,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 30
   },
   {
     "id": 823,
@@ -4710,10 +3525,7 @@
     "short": "Pa. Fid.",
     "start_date": "1951",
     "end_date": "1980",
-    "volumes": 30,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 30
   },
   {
     "id": 824,
@@ -4722,10 +3534,7 @@
     "short": "Pa. Fid. 3d",
     "start_date": "2011",
     "end_date": "2012",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 825,
@@ -4734,10 +3543,7 @@
     "short": "Pa. Just. L. Rep.",
     "start_date": "1902",
     "end_date": "1918",
-    "volumes": 16,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 16
   },
   {
     "id": 826,
@@ -4746,10 +3552,7 @@
     "short": "Pa. L.J. Rep.",
     "start_date": "1842",
     "end_date": "1852",
-    "volumes": 5,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 827,
@@ -4758,10 +3561,7 @@
     "short": "Pa. L. Rec.",
     "start_date": "1879",
     "end_date": "1880",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 3
   },
   {
     "id": 828,
@@ -4770,10 +3570,7 @@
     "short": "Pen.",
     "start_date": "1881",
     "end_date": "1884",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 829,
@@ -4782,10 +3579,7 @@
     "short": "Singer Prob. Cas.",
     "start_date": "1901",
     "end_date": "1904",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 830,
@@ -4794,10 +3588,7 @@
     "short": "Rec. Ct. Ches. Co. Pa.",
     "start_date": "1681",
     "end_date": "1710",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 831,
@@ -4806,10 +3597,7 @@
     "short": "Rec. Bucks. Co. (Pa.)",
     "start_date": "1684",
     "end_date": "1700",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 832,
@@ -4818,10 +3606,7 @@
     "short": "Bro. Com. P. (Pa.)",
     "start_date": "1811",
     "end_date": "1813",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 833,
@@ -4830,10 +3615,7 @@
     "short": "Ashm. (Pa.)",
     "start_date": "1831",
     "end_date": "1841",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 2
   },
   {
     "id": 834,
@@ -4842,10 +3624,7 @@
     "short": "Yeates",
     "start_date": "1791",
     "end_date": "1808",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Holdings show 4 volumes, only 1 item record"
+    "volumes": 4
   },
   {
     "id": 835,
@@ -4854,10 +3633,7 @@
     "short": "Binn.",
     "start_date": "1799",
     "end_date": "1814",
-    "volumes": 6,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 836,
@@ -4866,10 +3642,7 @@
     "short": "Serg. & Rawl.",
     "start_date": "1814",
     "end_date": "1828",
-    "volumes": 17,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 17
   },
   {
     "id": 837,
@@ -4878,10 +3651,7 @@
     "short": "Watts & Serg.",
     "start_date": "1841",
     "end_date": "1845",
-    "volumes": 9,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Holdings show 9 volumes, item records show all but vol. 9"
+    "volumes": 9
   },
   {
     "id": 838,
@@ -4890,10 +3660,7 @@
     "short": "Rawl.",
     "start_date": "1829",
     "end_date": "1836",
-    "volumes": 5,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 5
   },
   {
     "id": 839,
@@ -4902,10 +3669,7 @@
     "short": "Pen. & W.",
     "start_date": "1830",
     "end_date": "1833",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 840,
@@ -4914,10 +3678,7 @@
     "short": "Whart.",
     "start_date": "1835",
     "end_date": "1841",
-    "volumes": 6,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 841,
@@ -4926,10 +3687,7 @@
     "short": "Grant",
     "start_date": "1859",
     "end_date": "1864",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 842,
@@ -4938,10 +3696,7 @@
     "short": "Watts",
     "start_date": "1832",
     "end_date": "1840",
-    "volumes": 10,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 10
   },
   {
     "id": 843,
@@ -4950,10 +3705,7 @@
     "short": "Brightly",
     "start_date": "1809",
     "end_date": "1851",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 844,
@@ -4962,10 +3714,7 @@
     "short": "Walker",
     "start_date": "1853",
     "end_date": "1885",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 845,
@@ -4974,10 +3723,7 @@
     "short": "Wilcox",
     "start_date": "1887",
     "end_date": "1889",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 846,
@@ -4986,10 +3732,7 @@
     "short": "Miles",
     "start_date": "1827",
     "end_date": "1841",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 847,
@@ -4998,10 +3741,7 @@
     "short": "Lycoming R.",
     "start_date": "1949",
     "end_date": "2010",
-    "volumes": 68,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings they are at 102"
+    "volumes": 68
   },
   {
     "id": 848,
@@ -5010,10 +3750,7 @@
     "short": "Mercer",
     "start_date": "1956",
     "end_date": "1991",
-    "volumes": 25,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings -- Hein says up to current is v. 25 but we have v. 25 1990/1991"
+    "volumes": 25
   },
   {
     "id": 849,
@@ -5022,10 +3759,7 @@
     "short": "M.C.L.J.",
     "start_date": "1961",
     "end_date": "1999",
-    "volumes": 38,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "? Hein records state 10 v. for 1961-1999 when publication ceased"
+    "volumes": 38
   },
   {
     "id": 850,
@@ -5034,10 +3768,7 @@
     "short": "Monroe L.R.",
     "start_date": "1938",
     "end_date": "2009",
-    "volumes": 54,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "?Hein record states 26 v. with publication ceased in 1969"
+    "volumes": 54
   },
   {
     "id": 851,
@@ -5046,10 +3777,7 @@
     "short": "Mont. Co. L. Rep.",
     "start_date": "1885",
     "end_date": "2006",
-    "volumes": 139,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "143 volumes but 125/126, 127/128 and 129/131 are consolidated volumes, not included in Hein but need to update holdings -- found online with current volume count up to 151:  http://montgomerybar.org/publications/lawRep/index.php"
+    "volumes": 139
   },
   {
     "id": 852,
@@ -5058,10 +3786,7 @@
     "short": "Northam. Law Rep.",
     "start_date": "1889",
     "end_date": "2006",
-    "volumes": 54,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings:  http://www.norcobar.org/reporter.aspx"
+    "volumes": 54
   },
   {
     "id": 853,
@@ -5070,10 +3795,7 @@
     "short": "Northum. Co. Leg. N.",
     "start_date": "1888",
     "end_date": "1889",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 854,
@@ -5082,10 +3804,7 @@
     "short": "Northumb. L.J.",
     "start_date": "1913",
     "end_date": "2011",
-    "volumes": 83,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update"
+    "volumes": 83
   },
   {
     "id": 855,
@@ -5094,10 +3813,7 @@
     "short": "Olwine's L.J.",
     "start_date": "1849",
     "end_date": "1850",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 856,
@@ -5106,10 +3822,7 @@
     "short": "Phila. Reports",
     "start_date": "1850",
     "end_date": "1891",
-    "volumes": 20,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 20
   },
   {
     "id": 857,
@@ -5118,10 +3831,7 @@
     "short": "Pittsb. L.J.",
     "start_date": "1853",
     "end_date": "2010",
-    "volumes": 143,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "HOLLIS record starts at v. 16 but says we have beginning v. 1 -- missing Record for first 15 v.?"
+    "volumes": 143
   },
   {
     "id": 858,
@@ -5130,10 +3840,7 @@
     "short": "Pitts. R.",
     "start_date": "1853",
     "end_date": "1873",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 859,
@@ -5142,10 +3849,7 @@
     "short": "Som. L.J.",
     "start_date": "1920",
     "end_date": "2006",
-    "volumes": 62,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings -- Hein indicates up to v.64 to date"
+    "volumes": 62
   },
   {
     "id": 860,
@@ -5154,10 +3858,7 @@
     "short": "B. Co. Leg. J.",
     "start_date": "1939",
     "end_date": "1987",
-    "volumes": 45,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings -- Hein indicates up to v. 67 to date -- note v.44/45 consolidated into one volume"
+    "volumes": 45
   },
   {
     "id": 861,
@@ -5166,10 +3867,7 @@
     "short": "Carbon Co. L.J.",
     "start_date": "1966",
     "end_date": "2005",
-    "volumes": 17,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "May need to update holdings -- Hein indicates v.17 as current, our v.17 is dated 2005"
+    "volumes": 17
   },
   {
     "id": 862,
@@ -5178,10 +3876,7 @@
     "short": "Dau. Co. Rep.",
     "start_date": "1895",
     "end_date": "2008",
-    "volumes": 123,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings -- Hein indicates to date as v. 124 (our v. 123 is from 2008)"
+    "volumes": 123
   },
   {
     "id": 863,
@@ -5190,10 +3885,7 @@
     "short": "Docket",
     "start_date": "1897",
     "end_date": "1898",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Our holdings are micofiche from LLMC and Law School Unclassed"
+    "volumes": 2
   },
   {
     "id": 864,
@@ -5202,10 +3894,7 @@
     "short": "Lack. Bar  R.",
     "start_date": "1906",
     "end_date": "1907",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 1
   },
   {
     "id": 865,
@@ -5214,10 +3903,7 @@
     "short": "Lack. L.R.",
     "start_date": "1879",
     "end_date": "1879",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare Primary US Pennsylvania [Consult Special Collections]"
+    "volumes": 1
   },
   {
     "id": 866,
@@ -5226,10 +3912,7 @@
     "short": "Lanc. Bar",
     "start_date": "1869",
     "end_date": "1883",
-    "volumes": 7,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Most volumes are two or three volumes combined into one -- there are actually only 7 books"
+    "volumes": 7
   },
   {
     "id": 867,
@@ -5238,10 +3921,7 @@
     "short": "Law. L.J.",
     "start_date": "1942",
     "end_date": "1979",
-    "volumes": 26,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 26
   },
   {
     "id": 868,
@@ -5250,10 +3930,7 @@
     "short": "Leg. Gaz.",
     "start_date": "1869",
     "end_date": "1876",
-    "volumes": 8,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed and Law School Rare Periodicals"
+    "volumes": 8
   },
   {
     "id": 869,
@@ -5262,10 +3939,7 @@
     "short": "Leg. Rec. Rep.",
     "start_date": "1879",
     "end_date": "1872",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD -- v. 1 missing -- \"in transit\" -- need to replace, also series ran to 1918 with 15 volumes total -- do we purchase?"
+    "volumes": 2
   },
   {
     "id": 870,
@@ -5274,10 +3948,7 @@
     "short": "Lehigh Co. L.J.",
     "start_date": "1903",
     "end_date": "1940",
-    "volumes": 18,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD -- Need to update holdings, Hein is at v.51 to date"
+    "volumes": 18
   },
   {
     "id": 871,
@@ -5286,10 +3957,7 @@
     "short": "Lehigh Val. L. Rep.",
     "start_date": "1885",
     "end_date": "1887",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 1
   },
   {
     "id": 872,
@@ -5298,10 +3966,7 @@
     "short": "Luz. L.J.",
     "start_date": "1871",
     "end_date": "1871",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 1
   },
   {
     "id": 873,
@@ -5310,10 +3975,7 @@
     "short": "Luz. L.O.",
     "start_date": "1860",
     "end_date": "1864",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed -- missing v. 4 for 1864"
+    "volumes": 3
   },
   {
     "id": 874,
@@ -5322,10 +3984,7 @@
     "short": "Pa. Corp. R.",
     "start_date": "1914",
     "end_date": "1939",
-    "volumes": 27,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 27
   },
   {
     "id": 875,
@@ -5334,10 +3993,7 @@
     "short": "Phila. Co. R.",
     "start_date": "1979",
     "end_date": "1998",
-    "volumes": 24,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD -- note Hein refers to 35 v. up to 1998 but I count 24"
+    "volumes": 24
   },
   {
     "id": 876,
@@ -5346,10 +4002,7 @@
     "short": "Schuy. Reg.",
     "start_date": "1933",
     "end_date": "1945",
-    "volumes": 10,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 10
   },
   {
     "id": 877,
@@ -5358,10 +4011,7 @@
     "short": "Susq. Leg. Chron.",
     "start_date": "1878",
     "end_date": "1878",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 1
   },
   {
     "id": 878,
@@ -5370,10 +4020,7 @@
     "short": "York Leg. Rec.",
     "start_date": "1880",
     "end_date": "2013",
-    "volumes": 126,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD -- looks like our subscription is current"
+    "volumes": 126
   },
   {
     "id": 879,
@@ -5382,10 +4029,7 @@
     "short": "Wes. C.L.J.",
     "start_date": "1911",
     "end_date": "2010",
-    "volumes": 92,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD -- Need to update holdings -- Hein refers to v. 94 as current -- also note that our holdings refer to this as the Westmoreland Law J. whereas other sources refer to it as the Westmoreland County Law Journal -- I changed the title"
+    "volumes": 92
   },
   {
     "id": 880,
@@ -5394,10 +4038,7 @@
     "short": "Dallas",
     "start_date": "1754",
     "end_date": "1806",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Missing vol. 1 from Harvard holdings"
+    "volumes": 3
   },
   {
     "id": 881,
@@ -5406,10 +4047,7 @@
     "short": "Dallas",
     "start_date": "",
     "end_date": "",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 882,
@@ -5418,10 +4056,7 @@
     "short": "Brewster",
     "start_date": "1856",
     "end_date": "1873",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 883,
@@ -5430,10 +4065,7 @@
     "short": "Wash. Co.(Pa.)",
     "start_date": "1922",
     "end_date": "2002",
-    "volumes": 86,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD KFP52.W3W3 (current volumes in collection management)"
+    "volumes": 86
   },
   {
     "id": 884,
@@ -5442,10 +4074,7 @@
     "short": "Rec. T. Warwick (R.I.)",
     "start_date": "1659",
     "end_date": "1674",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 885,
@@ -5454,10 +4083,7 @@
     "short": "Rec. V.A. Ct. (R.I.)",
     "start_date": "1716",
     "end_date": "1752",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 886,
@@ -5466,10 +4092,7 @@
     "short": "R.I. Ct. Rec.",
     "start_date": "1647",
     "end_date": "1670",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD; Copyright 1920-1922"
+    "volumes": 2
   },
   {
     "id": 887,
@@ -5478,10 +4101,7 @@
     "short": "R.I. Dec.",
     "start_date": "1924",
     "end_date": "1935",
-    "volumes": 12,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 12
   },
   {
     "id": 888,
@@ -5490,10 +4110,7 @@
     "short": "Super. Ct. (R.I.)",
     "start_date": "1917",
     "end_date": "1919",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 2
   },
   {
     "id": 889,
@@ -5502,10 +4119,7 @@
     "short": "N.E.",
     "start_date": "1885",
     "end_date": "1936",
-    "volumes": 200,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 200
   },
   {
     "id": 890,
@@ -5514,10 +4128,7 @@
     "short": "N.E. 3d",
     "start_date": "2014",
     "end_date": "2014",
-    "volumes": 13,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 13
   },
   {
     "id": 891,
@@ -5526,10 +4137,7 @@
     "short": "N.W.",
     "start_date": "1879",
     "end_date": "1942",
-    "volumes": 300,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 300
   },
   {
     "id": 892,
@@ -5538,10 +4146,7 @@
     "short": "N.W. 2d",
     "start_date": "1942",
     "end_date": "2014",
-    "volumes": 847,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 847
   },
   {
     "id": 893,
@@ -5550,10 +4155,7 @@
     "short": "P.",
     "start_date": "1883",
     "end_date": "1931",
-    "volumes": 300,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 300
   },
   {
     "id": 894,
@@ -5562,10 +4164,7 @@
     "short": "P.3d",
     "start_date": "2000",
     "end_date": "2014",
-    "volumes": 327,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 327
   },
   {
     "id": 895,
@@ -5574,34 +4173,25 @@
     "short": "S.E.2d",
     "start_date": "1939",
     "end_date": "2014",
-    "volumes": 756,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 756
   },
   {
     "id": 896,
     "state": "S.C.",
-    "reporter": "Cases at law, argued and determined in the court of appeals of South CarolinaÉ..",
+    "reporter": "Cases at law, argued and determined in the court of appeals of South Carolina\u00c9..",
     "short": "McMul.",
     "start_date": "1840",
     "end_date": "1842",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 897,
     "state": "S.C.",
-    "reporter": "Cases at law, argued and determined in the court of appeals of South CarolinaÉ..",
+    "reporter": "Cases at law, argued and determined in the court of appeals of South Carolina\u00c9..",
     "short": "Chev.",
     "start_date": "1839",
     "end_date": "1840",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "There is a second edition - pulled both back from HD to check"
+    "volumes": 1
   },
   {
     "id": 898,
@@ -5610,10 +4200,7 @@
     "short": "McCord Eq.",
     "start_date": "1825",
     "end_date": "1826",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 899,
@@ -5622,10 +4209,7 @@
     "short": "Ril. Eq.",
     "start_date": "1836",
     "end_date": "1837",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 900,
@@ -5634,10 +4218,7 @@
     "short": "Speers Eq.",
     "start_date": "1842",
     "end_date": "1844",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 901,
@@ -5646,10 +4227,7 @@
     "short": "McMul. Eq.",
     "start_date": "1840",
     "end_date": "1842",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 902,
@@ -5658,10 +4236,7 @@
     "short": "Rec. Co. Ch. (S.C.)",
     "start_date": "1671",
     "end_date": "1779",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 903,
@@ -5670,10 +4245,7 @@
     "short": "Ril.",
     "start_date": "1836",
     "end_date": "1837",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 904,
@@ -5682,10 +4254,7 @@
     "short": "Strobh.",
     "start_date": "1846",
     "end_date": "1851",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Vol. 1 missing per J.Hostage note"
+    "volumes": 4
   },
   {
     "id": 905,
@@ -5694,10 +4263,7 @@
     "short": "Dud. Eq.",
     "start_date": "1837",
     "end_date": "1838",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 906,
@@ -5706,10 +4272,7 @@
     "short": "Bail.",
     "start_date": "1828",
     "end_date": "1832",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 907,
@@ -5718,10 +4281,7 @@
     "short": "Dess.Eq.",
     "start_date": "1784",
     "end_date": "1816",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 908,
@@ -5730,10 +4290,7 @@
     "short": "Bay",
     "start_date": "1783",
     "end_date": "1804",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 909,
@@ -5742,10 +4299,7 @@
     "short": "Rich.",
     "start_date": "1844",
     "end_date": "1869",
-    "volumes": 15,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 15
   },
   {
     "id": 910,
@@ -5754,10 +4308,7 @@
     "short": "Spears",
     "start_date": "1842",
     "end_date": "1844",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 911,
@@ -5766,10 +4317,7 @@
     "short": "Rice",
     "start_date": "1838",
     "end_date": "1839",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 912,
@@ -5778,10 +4326,7 @@
     "short": "Hill",
     "start_date": "1833",
     "end_date": "1837",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 913,
@@ -5790,10 +4335,7 @@
     "short": "Dud.",
     "start_date": "1837",
     "end_date": "1838",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 914,
@@ -5802,10 +4344,7 @@
     "short": "McCord",
     "start_date": "1821",
     "end_date": "1828",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 915,
@@ -5814,10 +4353,7 @@
     "short": "Nott & McC.",
     "start_date": "1817",
     "end_date": "1820",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 916,
@@ -5826,10 +4362,7 @@
     "short": "Harp.",
     "start_date": "1823",
     "end_date": "1831",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 917,
@@ -5838,10 +4371,7 @@
     "short": "Hill Eq.",
     "start_date": "1833",
     "end_date": "1837",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 918,
@@ -5850,10 +4380,7 @@
     "short": "Rice Eq.",
     "start_date": "1838",
     "end_date": "1839",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 919,
@@ -5862,10 +4389,7 @@
     "short": "Rich. Eq.",
     "start_date": "1831",
     "end_date": "1832",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 920,
@@ -5874,10 +4398,7 @@
     "short": "Rich. Eq. Cas.",
     "start_date": "1844",
     "end_date": "1868",
-    "volumes": 14,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 14
   },
   {
     "id": 921,
@@ -5886,10 +4407,7 @@
     "short": "Strobh. Eq.",
     "start_date": "1846",
     "end_date": "1850",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 922,
@@ -5898,10 +4416,7 @@
     "short": "Bailey Eq.",
     "start_date": "1830",
     "end_date": "1831",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 923,
@@ -5910,10 +4425,7 @@
     "short": "Mill Const.",
     "start_date": "1817",
     "end_date": "1818",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 924,
@@ -5922,10 +4434,7 @@
     "short": "Tread.",
     "start_date": "1812",
     "end_date": "1816",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 925,
@@ -5934,10 +4443,7 @@
     "short": "Tenn. Crim. App.",
     "start_date": "1969",
     "end_date": "1971",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 926,
@@ -5946,10 +4452,7 @@
     "short": "Unrep. Tenn. Cas.",
     "start_date": "1847",
     "end_date": "1869",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD, HD has two v., but might be dupes.  LLMC only shows one v. for this. 1909 catalog shows 1 v., refers to the nominative reporter Thompson"
+    "volumes": 2
   },
   {
     "id": 927,
@@ -5958,10 +4461,7 @@
     "short": "Tenn. Cas.",
     "start_date": "1847",
     "end_date": "1894",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD, 1909 catalog refers to nominative reporter:  Tennessee Cases, Shannon"
+    "volumes": 3
   },
   {
     "id": 928,
@@ -5970,10 +4470,7 @@
     "short": "Tenn. Ch. R.",
     "start_date": "1872",
     "end_date": "1878",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD, referred to in 1909 catalog as \"Cooper's Decisions\""
+    "volumes": 3
   },
   {
     "id": 929,
@@ -5982,10 +4479,7 @@
     "short": "Dallam",
     "start_date": "1840",
     "end_date": "1844",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed"
+    "volumes": 1
   },
   {
     "id": 930,
@@ -5994,10 +4488,7 @@
     "short": "Ct. Cust.",
     "start_date": "1910",
     "end_date": "1929",
-    "volumes": 16,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 16
   },
   {
     "id": 931,
@@ -6006,10 +4497,7 @@
     "short": "C.M.A.",
     "start_date": "1951",
     "end_date": "1975",
-    "volumes": 23,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 23
   },
   {
     "id": 932,
@@ -6018,10 +4506,7 @@
     "short": "Fed. Cl.",
     "start_date": "1993",
     "end_date": "2014",
-    "volumes": 90,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 90
   },
   {
     "id": 933,
@@ -6030,10 +4515,7 @@
     "short": "F.3d",
     "start_date": "1993",
     "end_date": "2014",
-    "volumes": 761,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 761
   },
   {
     "id": 934,
@@ -6042,10 +4524,7 @@
     "short": "F. Supp. 2d",
     "start_date": "1998",
     "end_date": "2014",
-    "volumes": 990,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 990
   },
   {
     "id": 935,
@@ -6054,10 +4533,7 @@
     "short": "B.R.",
     "start_date": "1980",
     "end_date": "2014",
-    "volumes": 512,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Storage, Currently received."
+    "volumes": 512
   },
   {
     "id": 936,
@@ -6066,10 +4542,7 @@
     "short": "F. App'x",
     "start_date": "2001",
     "end_date": "2014",
-    "volumes": 570,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "v. 1-309, Law School HD;  v. 310-568, Law School Storage, Currently received."
+    "volumes": 570
   },
   {
     "id": 937,
@@ -6078,10 +4551,7 @@
     "short": "M.J.",
     "start_date": "1978",
     "end_date": "2014",
-    "volumes": 72,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "v.1-66, Law School HD; v.67-72 Law School, Currently received."
+    "volumes": 72
   },
   {
     "id": 938,
@@ -6090,10 +4560,7 @@
     "short": "Vet. App.",
     "start_date": "1990",
     "end_date": "2014",
-    "volumes": 25,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "v. 1-22, Law School; v. 23-25, Law School Storage"
+    "volumes": 25
   },
   {
     "id": 939,
@@ -6102,10 +4569,7 @@
     "short": "Cl. Ct.",
     "start_date": "1983",
     "end_date": "1992",
-    "volumes": 26,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 26
   },
   {
     "id": 940,
@@ -6114,10 +4578,7 @@
     "short": "Ct. Int'l Trade",
     "start_date": "1980",
     "end_date": "2009",
-    "volumes": 33,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School, Currently received.  V. 33, 2009 is the most recent volume."
+    "volumes": 33
   },
   {
     "id": 941,
@@ -6126,10 +4587,7 @@
     "short": "Cust. Ct.",
     "start_date": "1938",
     "end_date": "1977",
-    "volumes": 85,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Reading Room -- Need to update holdings.  We are missing v. 79-85.  Series ended in 1980 with v.85"
+    "volumes": 85
   },
   {
     "id": 942,
@@ -6138,10 +4596,7 @@
     "short": "F. Cas.",
     "start_date": "1789",
     "end_date": "1880",
-    "volumes": 31,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Reading Room -- HOLLIS record lists only three bar codes but all volumes are on RR shelf"
+    "volumes": 31
   },
   {
     "id": 943,
@@ -6150,10 +4605,7 @@
     "short": "F.",
     "start_date": "1880",
     "end_date": "1924",
-    "volumes": 300,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 300
   },
   {
     "id": 944,
@@ -6162,10 +4614,7 @@
     "short": "B.T.A.",
     "start_date": "1924",
     "end_date": "1942",
-    "volumes": 47,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Reading Room -- HOLLIS record refers only to v. 28 but all volumes are on the RR shelf"
+    "volumes": 47
   },
   {
     "id": 945,
@@ -6174,10 +4623,7 @@
     "short": "Va.",
     "start_date": "1829",
     "end_date": "1808",
-    "volumes": 0,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2016-05-02 13:03:03",
-    "notes": ""
+    "volumes": 0
   },
   {
     "id": 946,
@@ -6186,10 +4632,7 @@
     "short": "Va. Ch. Dec.",
     "start_date": "1788",
     "end_date": "1789",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare Dumbauld Collection"
+    "volumes": 1
   },
   {
     "id": 947,
@@ -6198,10 +4641,7 @@
     "short": "Va.",
     "start_date": "1622",
     "end_date": "1683",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed and Widener US 18318.1.10F"
+    "volumes": 1
   },
   {
     "id": 948,
@@ -6210,10 +4650,7 @@
     "short": "Va. Cir.",
     "start_date": "1957",
     "end_date": "2014",
-    "volumes": 87,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2016-04-21 15:33:35",
-    "notes": "Law School Storage, On Order"
+    "volumes": 87
   },
   {
     "id": 949,
@@ -6222,10 +4659,7 @@
     "short": "Va. Col. Dec.",
     "start_date": "1728",
     "end_date": "1741",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2016-04-26 13:15:14",
-    "notes": "Law School HD but it looks like we have already requested these volumes"
+    "volumes": 2
   },
   {
     "id": 950,
@@ -6234,10 +4668,7 @@
     "short": "Va. Dec.",
     "start_date": "1871",
     "end_date": "1900",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2016-04-26 14:47:24",
-    "notes": "Law School HD, v. copyright is 1902 but decisions range from 1871-1900, 1909 catalog states \"not officially reported\""
+    "volumes": 2
   },
   {
     "id": 951,
@@ -6246,10 +4677,7 @@
     "short": "Am. Samoa",
     "start_date": "1900",
     "end_date": "1975",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 4
   },
   {
     "id": 952,
@@ -6258,10 +4686,7 @@
     "short": "Yates",
     "start_date": "1809",
     "end_date": "1809",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Unclassed and Houghton US 15217.56"
+    "volumes": 1
   },
   {
     "id": 953,
@@ -6270,10 +4695,7 @@
     "short": "Ohio L. Abs.",
     "start_date": "1922",
     "end_date": "1965",
-    "volumes": 95,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 95
   },
   {
     "id": 954,
@@ -6282,10 +4704,7 @@
     "short": "Ohio L. Rep.",
     "start_date": "1903",
     "end_date": "1934",
-    "volumes": 40,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2015-12-17 10:50:18",
-    "notes": "Law School HD Unclassed - holdings show 40 vols.   Only two item record - HL1EA8 (vol. 1 1903-1904) and HL1EA7 (Vol. 29/31 1964-65)"
+    "volumes": 40
   },
   {
     "id": 955,
@@ -6294,10 +4713,7 @@
     "short": "Foster",
     "start_date": "1873",
     "end_date": "1875",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 956,
@@ -6306,10 +4722,7 @@
     "short": "Law Times (N.S.)",
     "start_date": "1879",
     "end_date": "1885",
-    "volumes": 6,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "HOLLIS record 5878700 states 6 v. in 2, but record holdings refer to v. 1 - 6 -- Law School HD without links, may be a duplicate record"
+    "volumes": 6
   },
   {
     "id": 957,
@@ -6318,10 +4731,7 @@
     "short": "Law Times",
     "start_date": "1873",
     "end_date": "1878",
-    "volumes": 6,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 6
   },
   {
     "id": 958,
@@ -6330,10 +4740,7 @@
     "short": "Luz. Leg. Reg.",
     "start_date": "1872",
     "end_date": "1886",
-    "volumes": 14,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 14
   },
   {
     "id": 959,
@@ -6342,10 +4749,7 @@
     "short": "Vaux",
     "start_date": "1841",
     "end_date": "1845",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Rare Primary US Pennsylvania"
+    "volumes": 1
   },
   {
     "id": 960,
@@ -6354,10 +4758,7 @@
     "short": "Parsons",
     "start_date": "1841",
     "end_date": "1851",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Harvard Depository US/P 592"
+    "volumes": 2
   },
   {
     "id": 961,
@@ -6366,10 +4767,7 @@
     "short": "Com. Pl. Rep.",
     "start_date": "1879",
     "end_date": "1887",
-    "volumes": 4,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD Unclassed"
+    "volumes": 4
   },
   {
     "id": 962,
@@ -6378,10 +4776,7 @@
     "short": "Week. No. Cas. (Pa.)",
     "start_date": "1875",
     "end_date": "1899",
-    "volumes": 44,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2016-04-21 08:36:15",
-    "notes": "Law School HD Unclassed"
+    "volumes": 44
   },
   {
     "id": 963,
@@ -6390,10 +4785,7 @@
     "short": "A.",
     "start_date": "1885",
     "end_date": "1938",
-    "volumes": 200,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 200
   },
   {
     "id": 964,
@@ -6402,10 +4794,7 @@
     "short": "A.3d",
     "start_date": "2010",
     "end_date": "2015",
-    "volumes": 94,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2016-01-27 15:42:10",
-    "notes": ""
+    "volumes": 94
   },
   {
     "id": 965,
@@ -6414,10 +4803,7 @@
     "short": "S.E.",
     "start_date": "1887",
     "end_date": "1939",
-    "volumes": 200,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 200
   },
   {
     "id": 966,
@@ -6426,10 +4812,7 @@
     "short": "Harp. Eq.",
     "start_date": "1824",
     "end_date": "1824",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 1
   },
   {
     "id": 967,
@@ -6438,10 +4821,7 @@
     "short": "Brev.",
     "start_date": "1793",
     "end_date": "1815",
-    "volumes": 3,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 3
   },
   {
     "id": 968,
@@ -6450,10 +4830,7 @@
     "short": "Lack. Bar. R.",
     "start_date": "1878",
     "end_date": "1878",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD"
+    "volumes": 1
   },
   {
     "id": 969,
@@ -6462,10 +4839,7 @@
     "short": "Pa. Fid. 2d",
     "start_date": "1981",
     "end_date": "2010",
-    "volumes": 30,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 30
   },
   {
     "id": 970,
@@ -6474,10 +4848,7 @@
     "short": "N.Y. Proc. Ct. Ass.",
     "start_date": "1680",
     "end_date": "1682",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Included in Collections of the New York Historical Society ÉÉ Hollis number of that is the added one here"
+    "volumes": 1
   },
   {
     "id": 971,
@@ -6486,10 +4857,7 @@
     "short": "N.E. 2d",
     "start_date": "1936",
     "end_date": "2014",
-    "volumes": 999,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 999
   },
   {
     "id": 972,
@@ -6498,10 +4866,7 @@
     "short": "P.2d",
     "start_date": "1931",
     "end_date": "2000",
-    "volumes": 999,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 999
   },
   {
     "id": 973,
@@ -6510,10 +4875,7 @@
     "short": "Guam",
     "start_date": "1976",
     "end_date": "1979",
-    "volumes": 2,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 2
   },
   {
     "id": 974,
@@ -6522,22 +4884,16 @@
     "short": "N. Mar. I.",
     "start_date": "1987",
     "end_date": "1992",
-    "volumes": 8,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 8
   },
   {
     "id": 975,
     "state": "P.R.",
-    "reporter": "Colecci—n de las sentencias y resoluciones dictadas por el Tribunal Supremo de Puerto Rico",
+    "reporter": "Colecci\u2014n de las sentencias y resoluciones dictadas por el Tribunal Supremo de Puerto Rico",
     "short": "P.R.",
     "start_date": "1903",
     "end_date": "1912",
-    "volumes": 186,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 186
   },
   {
     "id": 976,
@@ -6546,10 +4902,7 @@
     "short": "Luz. Leg. Reg.",
     "start_date": "1882",
     "end_date": "2010",
-    "volumes": 100,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Need to update holdings they are at 102"
+    "volumes": 100
   },
   {
     "id": 977,
@@ -6558,10 +4911,7 @@
     "short": "Schuy. L. Rec.",
     "start_date": "1879",
     "end_date": "1979",
-    "volumes": 75,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School HD -- Hein refers to v. 75 as current volume -- says is published to date?"
+    "volumes": 75
   },
   {
     "id": 978,
@@ -6570,10 +4920,7 @@
     "short": "C.C.P.A.",
     "start_date": "1929",
     "end_date": "1982",
-    "volumes": 53,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 53
   },
   {
     "id": 979,
@@ -6582,10 +4929,7 @@
     "short": "Cust. Ct.",
     "start_date": "1968",
     "end_date": "2003",
-    "volumes": 38,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 38
   },
   {
     "id": 980,
@@ -6594,10 +4938,7 @@
     "short": "F.2d",
     "start_date": "1924",
     "end_date": "1993",
-    "volumes": 999,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 999
   },
   {
     "id": 981,
@@ -6606,10 +4947,7 @@
     "short": "F.R.D.",
     "start_date": "1941",
     "end_date": "2014",
-    "volumes": 298,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 298
   },
   {
     "id": 982,
@@ -6618,10 +4956,7 @@
     "short": "F. Supp.",
     "start_date": "1932",
     "end_date": "1998",
-    "volumes": 999,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 999
   },
   {
     "id": 983,
@@ -6630,10 +4965,7 @@
     "short": "U.S.",
     "start_date": "1790",
     "end_date": "2008",
-    "volumes": 557,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Reading Room, Currently received. Missing v. 5 (Cranch) but located in Rare."
+    "volumes": 557
   },
   {
     "id": 984,
@@ -6642,10 +4974,7 @@
     "short": "T.C.",
     "start_date": "1942",
     "end_date": "2013",
-    "volumes": 141,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "Law School Reading Room -- HOLLIS records refer to v. 1-53 (but lists only three bar codes) and v. 54-140 (but no bar codes for v. 54-133)"
+    "volumes": 141
   },
   {
     "id": 992,
@@ -6654,10 +4983,7 @@
     "short": "Mart. (o.s.)",
     "start_date": "1809",
     "end_date": "1830",
-    "volumes": 0,
-    "created_at": "2016-02-03 16:02:08",
-    "updated_at": "2016-04-27 17:05:48",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 282,
@@ -6666,10 +4992,7 @@
     "short": "S.C.",
     "start_date": "1869",
     "end_date": "1983",
-    "volumes": 401,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 401
   },
   {
     "id": 331,
@@ -6678,10 +5001,7 @@
     "short": "Ohio Op.",
     "start_date": "1934",
     "end_date": "1956",
-    "volumes": 60,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 60
   },
   {
     "id": 335,
@@ -6690,10 +5010,7 @@
     "short": "Ohio Op. 2d",
     "start_date": "1956",
     "end_date": "1976",
-    "volumes": 75,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 75
   },
   {
     "id": 337,
@@ -6702,10 +5019,7 @@
     "short": "Ohio Op. 3d",
     "start_date": "1976",
     "end_date": "1982",
-    "volumes": 24,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 24
   },
   {
     "id": 392,
@@ -6714,10 +5028,7 @@
     "short": "Pa. D. & C. 4th",
     "start_date": "1990",
     "end_date": "2006",
-    "volumes": 76,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 76
   },
   {
     "id": 397,
@@ -6726,10 +5037,7 @@
     "short": "Ohio App.",
     "start_date": "1913",
     "end_date": "1965",
-    "volumes": 120,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 120
   },
   {
     "id": 400,
@@ -6738,10 +5046,7 @@
     "short": "Ohio App. 2d",
     "start_date": "1965",
     "end_date": "1982",
-    "volumes": 70,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 70
   },
   {
     "id": 485,
@@ -6750,10 +5055,7 @@
     "short": "Wis. 2d",
     "start_date": "1957",
     "end_date": "1975",
-    "volumes": 422,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 422
   },
   {
     "id": 544,
@@ -6762,10 +5064,7 @@
     "short": "Ohio St. (n.s.)",
     "start_date": "1852",
     "end_date": "1964",
-    "volumes": 177,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 177
   },
   {
     "id": 545,
@@ -6774,10 +5073,7 @@
     "short": "Ohio St. 2d",
     "start_date": "1965",
     "end_date": "1982",
-    "volumes": 70,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 70
   },
   {
     "id": 562,
@@ -6786,10 +5082,7 @@
     "short": "Cam. & Nor.",
     "start_date": "1800",
     "end_date": "1804",
-    "volumes": 1,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": "No item records attached - Law School Rare Primary US North Carolina"
+    "volumes": 1
   },
   {
     "id": 610,
@@ -6798,10 +5091,7 @@
     "short": "S.W.",
     "start_date": "1886",
     "end_date": "1928",
-    "volumes": 300,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 300
   },
   {
     "id": 612,
@@ -6810,10 +5100,7 @@
     "short": "S.W.3d",
     "start_date": "2000",
     "end_date": "2014",
-    "volumes": 434,
-    "created_at": "2014-12-11 00:13:47",
-    "updated_at": "2014-12-11 00:13:47",
-    "notes": ""
+    "volumes": 434
   },
   {
     "id": 997,
@@ -6822,10 +5109,7 @@
     "short": "Rob.",
     "start_date": "1841",
     "end_date": "1846",
-    "volumes": 12,
-    "created_at": "2016-03-24 08:46:05",
-    "updated_at": "2016-04-27 17:06:03",
-    "notes": null
+    "volumes": 12
   },
   {
     "id": 998,
@@ -6834,10 +5118,7 @@
     "short": "La. Ann.",
     "start_date": "1846",
     "end_date": "1900",
-    "volumes": 0,
-    "created_at": "2016-03-24 08:52:18",
-    "updated_at": "2016-04-27 17:06:22",
-    "notes": null
+    "volumes": 52
   },
   {
     "id": 999,
@@ -6845,11 +5126,8 @@
     "reporter": "Federal Supplement 3d",
     "short": "F. Supp. 3d",
     "start_date": "2014",
-    "end_date": "",
-    "volumes": 0,
-    "created_at": "2016-03-29 14:25:51",
-    "updated_at": "2016-03-29 14:25:51",
-    "notes": null
+    "end_date": "date",
+    "volumes": 0
   },
   {
     "id": 1000,
@@ -6858,10 +5136,7 @@
     "short": "Chev. Eq.",
     "start_date": "1839",
     "end_date": "1840",
-    "volumes": 0,
-    "created_at": "2016-04-15 08:10:36",
-    "updated_at": "2016-04-15 08:11:22",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 1001,
@@ -6869,11 +5144,8 @@
     "reporter": "Reports of cases, civil and criminal, argued and adjudged in the Circuit court of the District of Columbia for the county of Washington",
     "short": "Hay. & Haz.",
     "start_date": "1840",
-    "end_date": "",
-    "volumes": 2,
-    "created_at": "2016-04-21 08:20:34",
-    "updated_at": "2016-04-21 08:20:34",
-    "notes": null
+    "end_date": "1863",
+    "volumes": 2
   },
   {
     "id": 1002,
@@ -6882,10 +5154,7 @@
     "short": "N.C. (Mur.)",
     "start_date": "1804",
     "end_date": "1819",
-    "volumes": 3,
-    "created_at": "2016-04-22 08:00:27",
-    "updated_at": "2016-04-22 12:25:51",
-    "notes": null
+    "volumes": 3
   },
   {
     "id": 1003,
@@ -6894,10 +5163,7 @@
     "short": "N.C. (Hawks)",
     "start_date": "1820",
     "end_date": "",
-    "volumes": 4,
-    "created_at": "2016-04-22 08:03:13",
-    "updated_at": "2016-04-22 12:26:43",
-    "notes": null
+    "volumes": 4
   },
   {
     "id": 1004,
@@ -6906,10 +5172,7 @@
     "short": "N.C. (Ired. Eq.)",
     "start_date": "1840",
     "end_date": "1852",
-    "volumes": 8,
-    "created_at": "2016-04-22 11:29:22",
-    "updated_at": "2016-04-22 12:27:32",
-    "notes": null
+    "volumes": 8
   },
   {
     "id": 1010,
@@ -6918,10 +5181,7 @@
     "short": "N.C. (Busb.)",
     "start_date": "1852",
     "end_date": "1853",
-    "volumes": 1,
-    "created_at": "2016-04-22 12:28:47",
-    "updated_at": "2016-04-22 12:28:47",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 1005,
@@ -6930,10 +5190,7 @@
     "short": "N.C. (Ired.)",
     "start_date": "1840",
     "end_date": "1852",
-    "volumes": 13,
-    "created_at": "2016-04-22 11:35:42",
-    "updated_at": "2016-04-22 12:27:11",
-    "notes": null
+    "volumes": 13
   },
   {
     "id": 1006,
@@ -6942,10 +5199,7 @@
     "short": "N.C. (Dev.)",
     "start_date": "1826",
     "end_date": "1834",
-    "volumes": 4,
-    "created_at": "2016-04-22 12:16:32",
-    "updated_at": "2016-04-22 12:25:26",
-    "notes": null
+    "volumes": 4
   },
   {
     "id": 1007,
@@ -6954,10 +5208,7 @@
     "short": "N.C. (Dev. Eq.)",
     "start_date": "1826",
     "end_date": "1834",
-    "volumes": 2,
-    "created_at": "2016-04-22 12:20:01",
-    "updated_at": "2016-04-22 12:25:02",
-    "notes": null
+    "volumes": 2
   },
   {
     "id": 1008,
@@ -6966,10 +5217,7 @@
     "short": "N.C. (Dev. & Bat.)",
     "start_date": "1834",
     "end_date": "1839",
-    "volumes": 3,
-    "created_at": "2016-04-22 12:21:54",
-    "updated_at": "2016-04-22 13:15:44",
-    "notes": null
+    "volumes": 3
   },
   {
     "id": 1009,
@@ -6978,10 +5226,7 @@
     "short": "N.C. (Dev. & Bat. Eq.)",
     "start_date": "1834",
     "end_date": "1839",
-    "volumes": 2,
-    "created_at": "2016-04-22 12:24:07",
-    "updated_at": "2016-04-22 12:24:07",
-    "notes": null
+    "volumes": 2
   },
   {
     "id": 1012,
@@ -6990,10 +5235,7 @@
     "short": "N.C. (Jones)",
     "start_date": "1853",
     "end_date": "1862",
-    "volumes": 8,
-    "created_at": "2016-04-22 12:30:31",
-    "updated_at": "2016-04-22 12:30:31",
-    "notes": null
+    "volumes": 8
   },
   {
     "id": 1013,
@@ -7002,10 +5244,7 @@
     "short": "N.C. (Jones Eq.)",
     "start_date": "1853",
     "end_date": "1863",
-    "volumes": 6,
-    "created_at": "2016-04-22 12:31:24",
-    "updated_at": "2016-04-22 12:31:24",
-    "notes": null
+    "volumes": 6
   },
   {
     "id": 1014,
@@ -7014,10 +5253,7 @@
     "short": "N.C. (Win.)",
     "start_date": "1863",
     "end_date": "1864",
-    "volumes": 1,
-    "created_at": "2016-04-22 12:32:16",
-    "updated_at": "2016-04-22 12:32:16",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 1015,
@@ -7026,10 +5262,7 @@
     "short": "N.C. (Phil.)",
     "start_date": "1866",
     "end_date": "1868",
-    "volumes": 1,
-    "created_at": "2016-04-22 12:33:13",
-    "updated_at": "2016-04-22 12:33:13",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 1016,
@@ -7038,10 +5271,7 @@
     "short": "N.C. (Phil. Eq.)",
     "start_date": "1866",
     "end_date": "1868",
-    "volumes": 1,
-    "created_at": "2016-04-22 12:33:51",
-    "updated_at": "2016-04-22 12:33:51",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 1017,
@@ -7050,10 +5280,7 @@
     "short": "Va. (Wash.)",
     "start_date": "1790",
     "end_date": "1796",
-    "volumes": 2,
-    "created_at": "2016-05-02 10:38:21",
-    "updated_at": "2016-05-02 10:38:21",
-    "notes": null
+    "volumes": 2
   },
   {
     "id": 1018,
@@ -7062,10 +5289,7 @@
     "short": "Va. (Munf.)",
     "start_date": "1810",
     "end_date": "1820",
-    "volumes": 6,
-    "created_at": "2016-05-02 10:42:31",
-    "updated_at": "2016-05-02 10:42:31",
-    "notes": null
+    "volumes": 6
   },
   {
     "id": 1019,
@@ -7074,10 +5298,7 @@
     "short": "Va. (Rand.)",
     "start_date": "1821",
     "end_date": "1828",
-    "volumes": 6,
-    "created_at": "2016-05-02 10:44:55",
-    "updated_at": "2016-05-02 10:44:55",
-    "notes": null
+    "volumes": 6
   },
   {
     "id": 1020,
@@ -7086,10 +5307,7 @@
     "short": "Va. (Leigh)",
     "start_date": "1829",
     "end_date": "1842",
-    "volumes": 12,
-    "created_at": "2016-05-02 10:45:49",
-    "updated_at": "2016-05-02 10:45:49",
-    "notes": null
+    "volumes": 12
   },
   {
     "id": 1021,
@@ -7098,10 +5316,7 @@
     "short": "Va. (Rob.)",
     "start_date": "1842",
     "end_date": "1844",
-    "volumes": 2,
-    "created_at": "2016-05-02 10:47:00",
-    "updated_at": "2016-05-02 10:47:00",
-    "notes": null
+    "volumes": 2
   },
   {
     "id": 1022,
@@ -7110,10 +5325,7 @@
     "short": "Va. (Call)",
     "start_date": "1779",
     "end_date": "1825",
-    "volumes": 6,
-    "created_at": "2016-05-02 11:18:00",
-    "updated_at": "2016-05-02 11:18:00",
-    "notes": null
+    "volumes": 6
   },
   {
     "id": 1023,
@@ -7122,10 +5334,7 @@
     "short": "Va. (Gilmer)",
     "start_date": "1820",
     "end_date": "1821",
-    "volumes": 1,
-    "created_at": "2016-05-02 11:21:40",
-    "updated_at": "2016-05-02 11:21:40",
-    "notes": null
+    "volumes": 1
   },
   {
     "id": 1024,
@@ -7134,10 +5343,7 @@
     "short": "Va. (Gratt.)",
     "start_date": "1844",
     "end_date": "1880",
-    "volumes": 34,
-    "created_at": "2016-05-02 12:14:27",
-    "updated_at": "2016-05-02 12:15:22",
-    "notes": null
+    "volumes": 34
   },
   {
     "id": 1025,
@@ -7146,10 +5352,7 @@
     "short": "So. 3d",
     "start_date": "2009",
     "end_date": "",
-    "volumes": 0,
-    "created_at": "2016-05-09 08:40:37",
-    "updated_at": "2016-05-09 08:40:37",
-    "notes": null
+    "volumes": 0
   },
   {
     "id": 1026,
@@ -7158,10 +5361,7 @@
     "short": "So. 2d",
     "start_date": "1940",
     "end_date": "2009",
-    "volumes": 999,
-    "created_at": "2016-05-09 08:40:52",
-    "updated_at": "2016-05-09 08:41:31",
-    "notes": null
+    "volumes": 999
   },
   {
     "id": 1027,
@@ -7170,10 +5370,7 @@
     "short": "So.",
     "start_date": "1886",
     "end_date": "1940",
-    "volumes": 200,
-    "created_at": "2016-05-09 08:59:01",
-    "updated_at": "2016-05-09 08:59:01",
-    "notes": null
+    "volumes": 200
   },
   {
     "id": 1028,
@@ -7182,9 +5379,25 @@
     "short": "N.M. (Ct. App.)",
     "start_date": "2012",
     "end_date": "",
-    "volumes": 0,
-    "created_at": "2016-05-11 11:28:48",
-    "updated_at": "2016-05-11 11:29:43",
-    "notes": null
+    "volumes": 0
+  },
+  {
+    "id": 1029,
+    "state": "Ky.",
+    "reporter": "Reports of selected civil and criminal cases decided in the Court of Appeals of Kentucky",
+    "short": "Ky. (Bush)",
+    "start_date": "1866",
+    "end_date": "1879",
+    "volumes": 14
+  },
+  {
+    "id": 1030,
+    "state": "La.",
+    "reporter": "Louisiana Reports",
+    "short": "La.",
+    "start_date": "1830",
+    "end_date": "1841",
+    "volumes": 19
   }
 ]
+
